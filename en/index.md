@@ -9,3 +9,8 @@ The notes herein are those I’ve taken as I’ve done research over the last co
 ## Any disclaimers?
 
 Yes! These notes were originally typed under varying levels of distress and sleepiness, and have been migrated from one format to another repeatedly through the years. There are likely many typos and formatting errors. I’ll hope to polish things a bit over time, but… here they are.
+
+## The notes
+
+[Aarseth, Espen. *Cybertext*](aarseth.md)
+[Alonso, Carlos J et al. *Crises and Opportunities*](alonso.md)
