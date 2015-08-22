@@ -12,7 +12,7 @@ Yes! These notes were originally typed under varying levels of distress and slee
 
 ## The notes
 
-[Aarseth, Espen. *Cybertext*](pages/aarseth.md)
+[Aarseth, Espen. *Cybertext*](/aarseth)
 [Alonso, Carlos J et al. *Crises and Opportunities*](pages/alonso.md)
 [Althusser, Louis. “Contradiction and Overdetermination”](pages/althusser1.md)
 [Althusser, Louis. “Ideology and Ideological State Apparatuses”](pages/althusser2.md)
