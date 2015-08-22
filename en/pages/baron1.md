@@ -1,4 +1,4 @@
-Baron, Naomi S. “Redefining Reading: The Impact of Digital Communication Media.” PMLA 128.1 (2013): 193–200. doi://10.1632/pmla.2013.128.1.193.
+# Baron, Naomi S. “Redefining Reading: The Impact of Digital Communication Media.” PMLA 128.1 (2013): 193–200. doi://10.1632/pmla.2013.128.1.193.
 
 
 new definitions of "reading" emerging in relationship to new devices and platforms

@@ -1,6 +1,6 @@
-Baron, Naomi. Words Onscreen: The Fate of Reading in a Digital World. Forthcoming: Oxford University Press.
+# Baron, Naomi. *Words Onscreen: The Fate of Reading in a Digital World*. Forthcoming: Oxford University Press.
 
-nl;pr: Not Long; Please Read: A Preface
+## nl;pr: Not Long; Please Read: A Preface
 
 "Does it matter what medium we use for reading: print or digital text?" (1)
 
@@ -14,7 +14,7 @@ nl;pr: Not Long; Please Read: A Preface
 
 "Reading onscreen raises another question about the nature of reading: Is it an individual encounter with a text or essentially a social enterprise?" (6)
 
-### Chapter 1 - "I Hate Books": Words Go Digital
+## Chapter 1 - "I Hate Books": Words Go Digital
 
 concern with "whether new digital technologies will upend our understanding of what it means to read in the first place" (1.3)
 
@@ -28,7 +28,7 @@ William Gass, "In Defense of the Book" (1999); "Abstractions Arrive: Having Been
 
 container vs content; books as objects
 
-### Chapter 2 - Reading Evolves
+## Chapter 2 - Reading Evolves
 
 "reading on the prowl" versus "continuous reading"
 
@@ -52,7 +52,7 @@ intensive vs extensive reading; 18th c. need for "solutions" to the "too much to
 
 "The meaning of 'reading' increasingly becomes 'finding information' - and often settling for the first thing that comes to hand - rather than 'contemplating and understanding'. Adler would hardly approve." (2.26) -- and yet Adler had to make his argument precisely because "contemplating and understanding" wasn't the dominant mode of reading in his day, either. "Contemplating and understanding" has always been a specialized mode of reading.
 
-### Chapter 3 - tl;dr: Readers Reshape Writing
+## Chapter 3 - tl;dr: Readers Reshape Writing
 
 17th and 18th century history of ephemeral publishing forms: from broadsides, almanacs, and chapbooks; to magazines and other periodicals; also, encyclopedias, abridgements, anthologies, reviews, serials, condensed books, Cliff's Notes.
 
@@ -60,11 +60,11 @@ intensive vs extensive reading; 18th c. need for "solutions" to the "too much to
 
 "Make no mistake: Short-form reading can be both enjoyable and edifying. The essay is short-form, as (obviously) are short stories. The issue is whether today's surge in snack-sized texts also marks a move towards more lightweight reading." (3.21)
 
-### Chapter 4 - The Appeal of Words Onscreen
+## Chapter 4 - The Appeal of Words Onscreen
 
 benefits of digital reading: privacy, convenience, cost; issues in e-book pricing; environmental questions
 
-### Chapter 5 - The Web Ate My Print Option: One-Off Reading
+## Chapter 5 - The Web Ate My Print Option: One-Off Reading
 
 "The historical roots of one-off reading reflect a confluence of developments in the seventeenth and eighteenth centuries. The printing press began generating a flood of words on paper. Costs fell, while the size of the literate population rose. Intensive gave way to extensive reading, and novels and newspapers increasingly became everyday fare. The appearance of paperbacks made it feel less odious to discard a book when you were done with it." (5.3)
 
