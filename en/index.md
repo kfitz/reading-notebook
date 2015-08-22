@@ -12,5 +12,5 @@ Yes! These notes were originally typed under varying levels of distress and slee
 
 ## The notes
 
-[Aarseth, Espen. *Cybertext*](aarseth.md)
-[Alonso, Carlos J et al. *Crises and Opportunities*](alonso.md)
+[Aarseth, Espen. *Cybertext*](pages/aarseth.md)
+[Alonso, Carlos J et al. *Crises and Opportunities*](pages/alonso.md)
