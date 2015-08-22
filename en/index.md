@@ -24,3 +24,7 @@ Yes! These notes were originally typed under varying levels of distress and slee
 [Barnouw, Erik. *Tube of Plenty*](pages/barnouw.md)
 [Baron, Naomi S. “Redefining Reading”](pages/baron1.md)
 [Baron, Naomi. *Words Onscreen*](pages/baron2.md)
+[Barth, John. “The Literature of Exhaustion”](pages/barth.md)
+[Barthes, Roland. *Empire of Signs*](pages/barth1.md)
+[Barthes, Roland. “The Death of the Author”](pages/barth2.md)
+[Barthes, Roland. *The Pleasure of the Text*](pages/barth3.md)

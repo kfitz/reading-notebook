@@ -1,6 +1,6 @@
-Barthes, Roland. The Pleasure of the Text. New York: Hill and Wang, 1975.
+# Barthes, Roland. *The Pleasure of the Text*. New York: Hill and Wang, 1975.
 
-"A Note on the Text" -- Richard Howard (v-viii)
+## ”A Note on the Text" -- Richard Howard (v-viii)
 
 "the French have a vocabulary of eroticism, an amorous discourse which smells neither of the laboratory nor of the sewer, which just -- attentively, scrupulously -- puts the facts.  In English, we have either the coarse or the clinical, and by tradition our words for our pleasures, even for the intimate parts of our bodies where we may take those pleasures, come awkwardly when they come at all" (Howard v)
 
@@ -10,6 +10,7 @@ Barthes, Roland. The Pleasure of the Text. New York: Hill and Wang, 1975.
 
 "determined to affirm the pleasure we must take in our reading as against the indifference of (mere) knowledge, determined to instance our ecstasy, our bliss in the text against the prudery of ideological analysis, so that perhaps for the first time in the history of criticism we have not only a poetics of reading... but a much more difficult (because supposedly inexpressible, apparently ineffable) achievement:  *an erotics of reading*" (Howard vii-viii)
 
+## the text
 
 imagine someone who could endure every form of contradiction:  "Now this anti-hero exists:  he is he reader of the text at the moment he takes his pleasure" (Barthes 3)
 

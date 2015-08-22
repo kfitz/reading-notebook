@@ -1,7 +1,7 @@
-# Barnouw, Erik.  Tube of Plenty: The Evolution of American Television.   1975.  2nd rev. ed.  New York: Oxford University Press, 1990.
+# Barnouw, Erik. Tube of Plenty: The Evolution of American Television. 1975. 2nd rev. ed. New York: Oxford University Press, 1990.
 
 
-## CHAPTER 1:  FORBEARS
+## CHAPTER 1: FORBEARS
 - telephone (1876):  broadcasting v. narrowcasting
 - “Nipkow disk” — scanning images (1884)
 - related inventions: phonograph (1878), film (kinetoscope, 1894; cinematographe, 1895), radio

@@ -1,4 +1,4 @@
-Barthes, Roland.  "The Death of the Author."  In The Rustle of Language.  Trans. Richard Howard.  New York:  Hill and Wang, 1986.  49-55.
+# Barthes, Roland.  "The Death of the Author."  In *The Rustle of Language*.  Trans. Richard Howard.  New York:  Hill and Wang, 1986.  49-55.
 
 
 "writing is the destruction of every voice, every origin.  Writing is that neuter, that composite, that obliquity into which our subject flees, the black-and-white where all identity is lost, beginning with the very identity of the body that writes" (Barthes 49)
