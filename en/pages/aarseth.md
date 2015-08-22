@@ -1,7 +1,7 @@
-Aarseth, Espen J.  Cybertext:  Perspectives on Ergodic Literature.  Baltimore:  Johns Hopkins University Press, 1997.
+# Aarseth, Espen J.  *Cybertext:  Perspectives on Ergodic Literature*.  Baltimore:  Johns Hopkins University Press, 1997.
 
 
-1.  Introduction:  Ergodic Literature
+## 1. Introduction:  Ergodic Literature
 
 ergodic = reading as a work of physical construction; extranoematic work required in reading process
 
@@ -29,4 +29,4 @@ must first construct textonomy (map) before beginning textology (study of meanin
 
 “To be sure, media are far from neutral, inconsequential carriers of ‘content,’ but the essentialist idea of ‘the computer medium’ as a singular structure of well-defined properties of communication is just as untenable and can be based on only a very limited understanding of computer applications and media theory.” (19)
 
-2.  Paradigms and Perspectives
+## 2. Paradigms and Perspectives

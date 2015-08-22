@@ -1,7 +1,7 @@
-Alonso, Carlos J et al. Crises and Opportunities: The Futures of Scholarly Publishing. ACLS Occasional Paper, No. 57. New York: American Council of Learned Societies, 2003.
+# Alonso, Carlos J et al. *Crises and Opportunities: The Futures of Scholarly Publishing*. ACLS Occasional Paper, No. 57. New York: American Council of Learned Societies, 2003.
 
 
-Introduction
+## Introduction
 
 "In 1958, the American Council of Learned Societies sponsored a study to determine whether or not scholarly manuscripts face difficulties extrinsic to their merit in attaining publication. The study concluded that 'in most branches of the humanities and social sciences, at the present time, the uncomplicated scholarly manuscript of good quality can usually count upon reasonably rapid publication at no expense to the author.' This happy state of affairs was traced back to a major Ford Foundation program supporting university presses. Unfortunately, the past is indeed another country, and we can't get there from here." (Alonso et al 1)
 
@@ -11,7 +11,7 @@ Introduction
 
 "The 'crisis' of the scholarly monograph, then, is not merely a crisis in the economics of scholarly publishing, but also in the processes of peer review and academic self-governance, prompting reflection on practices of scholarly evaluation that we have simply taken for granted." (Alonso et al 2)
 
-Carlos J. Alonso
+## Carlos J. Alonso
 
 summary of evidence cited on behalf of the crisis in publishing in the humanities; exploration of two suggested solutions
 
@@ -37,7 +37,7 @@ on the other hand, he does mention the National Academies Press, "which offers i
 
 "The line that separates boldness from recklessness is at times hard to draw, but the younger members of our profession are looking to established scholars with increased expectations for concrete action that must not go unfulfilled." (Alonso et al, Alonso 17)
 
-Cathy N. Davidson
+## Cathy N. Davidson
 
 "University press publishing has many portals and, as individuals, we enter variously as students, scholars, teachers, mentors, editors, and administrators.  Institutionally, we also have different relationships to scholarly publishing -- as professional organizations, private universities, public universities, libraries, electronic publishers, and a range of different presses. It is important to have all of these -- individually and institutionally -- represented in our discussion because it forecloses the possibility of thinking there is some utopian 'elsewhere' where there is no problem. There is a problem, and we are all part of it." (Alonso et al, Davidson 21-22)
 
@@ -52,7 +52,7 @@ Cathy N. Davidson
 
 "We academics cannot continue to see ourselves as innocents in a process whose fate is decided by others. Innocence is not bliss -- it is professional suicide. The problem of university press publishing is our problem, and we must solve it." (Alonso et al, Davidson 34)
 
-John Unsworth
+## John Unsworth
 
 "Perhaps we simply can't afford to continue publishing as we have. In fact, perhaps the audience for humanities monographs is so small that this sort of book publishing can never be profitable. This assumption is at the core of Stevan Harnad’s 1994 'Subversive Proposal.' Broadly speaking, Harnad claims that scholars are more interested in having their work read and used than they are in making money from it; that scholars have hitherto signed their work over to publishers because, in the print world, that was the only way to disseminate their work so that it would be read and used; and that in the electronic world, authors don’t need to make this 'Faustian bargain.' According to Harnard, when the audience for scholarship is small, there's really no way that a publisher can afford to publish a book anyway, and the reduced cost of electronic-only publishing for small audiences should be met in advance -- by subsidies or through page charges." (Alonso et al, Unsworth 39-40)
 
@@ -62,7 +62,7 @@ John Unsworth
 
 "Maybe we could enlarge the audience for humanities scholarship not by dumbing it down, but by making it more readily available. Maybe if we did that, scholars would find an audience first, and a publisher second, instead of the other way around." (Alonso et al, Unsworth 43)
 
-Lynne Withey
+## Lynne Withey
 
 "First, we must confront the high cost of the front end of the process: acquiring, peer reviewing, and editing manuscripts. Second, we must stop being obsessed with output, because format -- print, electronic, article length, book length -- is rapidly becoming a non-issue, for reasons I'll address shortly. And finally, since scholarly publishing is a system involving many players, it must be analyzed as a system. No one player can resolve this crisis alone." (Alonso et al, Withey 48)
 
