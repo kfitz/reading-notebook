@@ -1,4 +1,4 @@
-Berlant, Lauren. Cruel Optimism. Durham, NC: Duke UP, 2011. Kindle e-book.
+# Berlant, Lauren. *Cruel Optimism*. Durham, NC: Duke UP, 2011. Kindle e-book.
 
 ## Introduction: Affect in the Present
 

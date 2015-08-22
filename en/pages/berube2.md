@@ -1,6 +1,6 @@
-Bérubé, Michael.  Marginal Forces/Cultural Centers:  Tolson, Pynchon, and the Politics of the Canon.  Ithaca, NY:  Cornell UP, 1992.
+# Bérubé, Michael.  *Marginal Forces/Cultural Centers:  Tolson, Pynchon, and the Politics of the Canon*.  Ithaca, NY:  Cornell UP, 1992.
 
-Introduction
+## Introduction
 
 "At no point in history has it been a simple enterprise to examine the cultural position and practices of academic literary study.  Though we speak often and obsessively of the present crisis in the profession (whatever we imagine this crisis to be), we do so in the knowledge that ours is a profession constituted in part by its sense of perpetual crisis…" (Bérubé 1)
 
@@ -32,7 +32,7 @@ see Bourdieu, Distinction:  A Social Critique of the Judgement of Taste
 
 "it is by now axiomatic to post-Romantic thought that the rhetoric of marginality can be a powerful enabling device, even though marginality itself is synonymous with disempowerment:  to claim to speak from the margin is paradoxically to claim to speak from the position of authority, and to describe a margin is to describe an authoritative challenge to hegemony.  My challenge to this rhetoric of marginality takes two forms:  demystification, whereby I argue that Pynchon's putative 'margin' is not always as marginal as it appears; and negotiation, whereby I seek to demonstrate Tolson's importance without making the knee-jerk argument that he is important solely because he had been marginalized.  Margins are real, but they are always relational." (Bérubé 16-17)
 
-Chapter 1:  Institutional Authorizations
+## Chapter 1:  Institutional Authorizations
 
 "Put most bluntly, the question that faces us here is whether academicization is the life or death of 'culture.'  Is institutional literary study a means to the preservation of culture(s), or does it mark the death-by-assimilation of vibrant, challenging writers, movements, and modes of thought?  Of course, to put the question in this way is to muddy and falsify it, since 'life' and 'death' can be construed as variously as a Rorschach blot — even so as to be equivalent states.  On the side of 'life,' for instance, we have the argument that the function of the university is 'transmission of the cultural heritage,' an argument that has come in the last decade to involve an entire battery of keywords such as 'excellence,' 'legacy,' and 'value.'  Such 'transmission' turns out to be a profoundly passive enterprise whereby universities teach a central core of classical texts in the Western tradition, texts whose 'classic' and 'central' status has been enhanced in this century by their very presence in 'central' university curricula.  Thus, if we mean by 'preservation of culture' an intellectual and patriarchal embalming process for passing on to our students what our fathers passed on to us, then institutional 'life,' in my question above, is as ideologically suspect a code word for critical intellectuals as it is for advocates of women's reproductive rights." (Bérubé 18-19)
 

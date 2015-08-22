@@ -32,3 +32,6 @@ Yes! These notes were originally typed under varying levels of distress and slee
 [Bazin, Patrick. “Toward Metareading”](pages/bazin.md)
 [Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction”](pages/benjamin.md)
 [Berlant, Lauren. “Collegiality, Crisis, and Cultural Studies”](pages/berlant1.md)
+[Berlant, Lauren. *Cruel Optimism*](pages/berlant2.md)
+[Bérubé, Michael. “Harry Potter and the Power of Narrative”](pages/berube1.md)
+[Bérubé, Michael. *Marginal Forces/Cultural Centers*](pages/berube2.md)

@@ -1,4 +1,4 @@
-# Benjamin, Walter.  “The Work of Art in the Age of Mechanical Reproduction.”  *Illuminations*.  New York: Schocken Books, 1969.  217-251.
+# Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” *Illuminations*. New York: Schocken Books, 1969.  217-251.
 
 ## PREFACE
 

@@ -1,4 +1,4 @@
-Berlant, Lauren. "Collegiality, Crisis, and Cultural Studies." ADE Bulletin, no. 117, Fall 1997, 4-9.
+# Berlant, Lauren. "Collegiality, Crisis, and Cultural Studies." *ADE Bulletin*, no. 117, Fall 1997, 4-9.
 
 "Humility is not conventionally associated with the project of cultural studies.... the scholars who engage in this work seem to want to change the world through criticism: they risk grandiosity of the intellect in believing that their critical acts and pedagogical practices will have concrete effects that, collectively repeated over long duration, might help to bring into being a better understanding of cultural struggles and create a less unjust world." (4)
 
