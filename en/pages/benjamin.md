@@ -1,6 +1,6 @@
-Benjamin, Walter.  “The Work of Art in the Age of Mechanical Reproduction.”  Illuminations.  New York: Schocken Books, 1969.  217-251.
+# Benjamin, Walter.  “The Work of Art in the Age of Mechanical Reproduction.”  *Illuminations*.  New York: Schocken Books, 1969.  217-251.
 
-PREFACE
+## PREFACE
 
 Marx’s critique of capitalism:  “one could expect it not only to exploit the proletariat with increasing intensity, but ultimately to create conditions which would make it possible to abolism capitalism itself.” (Benjamin 217)
 
@@ -8,7 +8,7 @@ change in means/conditions of production manifesting itself in change in culture
 
 “The concepts which are introduced into the theory of art in what follows differ from the more familiar terms in that they are completely useless for the purposes of Fascism.  They are, on the other hand, useful for the formulation of revolutionary demands in the politics of art.” (Benjamin 218)
 
-I.
+## I.
 
 newness of mechanical reproduction of works of art
 
@@ -20,7 +20,7 @@ about 1900, processes of reproduction advanced enough not only to reproduce all 
 
 study of repercussion of reproduction of works of art and the art of film on more traditional art
 
-II.
+## II.
 
 “Even the most perfect reproduction of a work of art is lacking in one element: its presence in time and space, its unique existence at the place where it happens to be.” (Benjamin 220)
 
@@ -34,7 +34,7 @@ authenticity = “the essence of all that is transmissible from its beginning, r
 
 film’s “destructive, cathartic aspect”: “the liquidation of the traditional value of the cultural heritage” (Benjamin 221)
 
-III.
+## III.
 
 changes in human sense perception:  changes in contemporary perception = decay of the aura
 
@@ -42,7 +42,7 @@ aura = distance; social bases of decay of aura rest in increased importance of m
 
 “The adjustment of reality to the masses and of the masses to reality is a process of unlimited scope, as much for thinking as for perception.” (Benjamin 223)
 
-IV.
+## IV.
 
 aura of work of art inseparable from its historical circumstances, but an aura nonetheless
 
@@ -52,13 +52,13 @@ with parallel rises of photography and socialism, art sensed coming revolution; 
 
 “for the first time in world history, mechanical reproduction emancipates the work of art from its parasitical dependence on ritual. . . . But the instance the criterion of authenticity ceases to be applicable to artistic production, the total function of art is reversed.  Instead of being based on ritual, it begins to be based on another practice — politics.” (Benjamin 224)
 
-V.
+## V.
 
 cult value v. exhibition value; as art is emancipated from ritual, exhibition possibilities increase
 
 absolute emphasis on the exhibition value of a work of art has removed its artistic function?
 
-VI.
+## VI.
 
 photography begins to replace cult value with exhibition value completely — but the portrait still maintains cult value
 
@@ -66,7 +66,7 @@ photography begins to replace cult value with exhibition value completely — bu
 
 photographs require captions, directives; film takes this further as each image is determined by those which have gone before
 
-VII.
+## VII.
 
 “When the age of mechanical reproduction separated art from its basis in cult, the semblance of its autonomy disappeared forever.” (Benjamin 226)
 
@@ -74,7 +74,7 @@ disputes over whether or not photography is an art overlook the question of whet
 
 desire among critics to class film among “arts” leads them to read ritual elements into it
 
-VIII.
+## VIII.
 
 differences in presentation of performances by stage and screen actors; mediation by camera
 
@@ -82,7 +82,7 @@ differences in presentation of performances by stage and screen actors; mediatio
 
 audience takes role of critic; anathema to cult value
 
-IX.
+## IX.
 
 actor acts not for audience, but for machine: “for the first time — and this is the effect of film — man has to operate with his whole living person, yet forgoing its aura.” (Benjamin 229)
 
@@ -90,7 +90,7 @@ actor acts not for audience, but for machine: “for the first time — and this
 
 pastiche form of screen actor’s performance
 
-X.
+## X.
 
 transportation of screen actor’s image before public
 
@@ -98,7 +98,7 @@ transportation of screen actor’s image before public
 
 democratization of art: anyone can be filmed; readers can become writers; distinction between author and public loses its basic character
 
-XI.
+## XI.
 
 viewer of the shooting of a film cannot avoid seeing machinery; in order to view it as equipment-free, another level of mechanization (editing) must intervene — height of artifice
 
@@ -106,27 +106,27 @@ difference between painter and cameraman as difference between magician (faith-h
 
 for contemporary man, representation of reality by film is more significant, since with film reality is more thoroughly permeated with machinery
 
-XII.
+## XII.
 
-mechancial reproduction of art changes responses of masses to art, from reactionary to progressive
+mechanical reproduction of art changes responses of masses to art, from reactionary to progressive
 
 progressive reaction:  fusion of enjoyment and critical faculty; with less “social significance,” the separation between criticism and enjoyment becomes more distinct
 
 film as collective experience; painting as solitary
 
-XIII.
+## XIII.
 
 film’s contributions to perception like those of Freudian theory; analysis of behavior in film more precise than in paintings or on the stage; “the mutual penetration of art and science” (Benjamin 236)
 
 film explores a difference nature than the eye; “unconsciously penetrated space” (Benjamin 236)
 
-XIV.
+## XIV.
 
 “One of the foremost tasks of art has always been the creation of a demand which could only be fully satisfied later.” (Benjamin 237); Dadaism sought the effects now produced in film (destruction of the aura)
 
 spectator’s process of association interrupted by changing images of film; shock effect
 
-XV.
+## XV.
 
 quantitative change in participation in art has produced qualitative change
 
@@ -136,7 +136,7 @@ architecture always received distractedly; tactile v. optical reception
 
 film develops reception in a state of distraction
 
-EPILOGUE
+## EPILOGUE
 
 growing proletariat and increasing formation of masses can lead to revolution or fascism
 

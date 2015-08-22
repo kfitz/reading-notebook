@@ -29,3 +29,6 @@ Yes! These notes were originally typed under varying levels of distress and slee
 [Barthes, Roland. “The Death of the Author”](pages/barthes2.md)
 [Barthes, Roland. *The Pleasure of the Text*](pages/barthes3.md)
 [Baudrillard, Jean. *The Mirror of Production*](pages/baudrillard.md)
+[Bazin, Patrick. “Toward Metareading”](pages/bazin.md)
+[Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction”](pages/benjamin.md)
+[Berlant, Lauren. “Collegiality, Crisis, and Cultural Studies”](pages/berlant1.md)

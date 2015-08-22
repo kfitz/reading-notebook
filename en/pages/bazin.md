@@ -1,4 +1,4 @@
-Bazin, Patrick. “Toward Metareading.” In The Future of the Book. Ed. Geoffrey Nunberg. Berkeley: University of California Press, 1996. 153-68.
+# Bazin, Patrick. “Toward Metareading.” In *The Future of the Book*. Ed. Geoffrey Nunberg. Berkeley: University of California Press, 1996. 153-68.
 
 
 "In one respect, the 'culture of the book' -- that is, a certain way of producing knowledge, meaning, and sociability -- is quite definitely fading a little further from view with every passing day.  From another perspective, the syndrome of textuality and its corollary, reading, is becoming omnipresent, and the myth of the universal library looks more than ever like a paradigm of knowledge." (Bazin 153)
