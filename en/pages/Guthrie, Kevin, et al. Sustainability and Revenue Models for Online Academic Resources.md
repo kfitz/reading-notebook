@@ -1,0 +1,30 @@
+Guthrie, Kevin, et al.  "Sustainability and Revenue Models for Online Academic Resources:  An Ithaka Report."  Ithaka, May 2008. <http://www.sr.ithaka.org/research-publications/sustainability-and-revenue-models-online-academic-resources>
+
+
+"There is no formulaic answer or single approach to achieving sustainability.  No study can lay out a 'one-size-fits-all' plan that any organisation can follow to reach a point of financial stability.  There are, however, a variety of processes and procedures that can help to improve the likelihood of entrepreneurial success.  These include establishing organisational mechanisms to develop accountability in leaders, setting measurable goals and objectives, reviewing progress on those objectives on a regular basis, and assessing the performance of both the project and its leaders.... In our experience, we have been surprised by how few not-for-profit initiatives rooted in the academic environment have such procedures in place.  Clearly the leaders of these initiatives are competent professionals; why do they not rely on processes that have proven effective in both commercial and not-for-profit contexts?  We have concluded that a key reason for this is that academic researchers tend to approach these problems from a different perspective, and with a different mindset, than do commercial entrepreneurs." (Guthrie et al 5)
+
+"The very low costs associated with this kind of passive distribution of information [via the internet] have encouraged the first wave of these projects to focus almost exclusively on securing resources to fund the upfront costs of developing the digital resources." (Guthrie et al 5)
+
+"In our opinion, delivering impact is the key factor in the potential for achieving long-term sustainability; only high impact and highly useful materials will draw the financial support from beneficiaries needed for long-term success.  Yet the importance of impact is often underestimated by leaders of not-for-profit digital resource projects.  Much attention is given to making material available and very little attention is given to doing the work to make sure that people will become aware of it, that they can find it, and if they do find it that they will actually use it." (Guthrie et al 5-6)
+
+"Assuming that grant funding will always be available is not likely to lead to a successful sustainability plan." (Guthrie et al 6)
+
+"Project leaders need to adopt a more comprehensive definition of 'sustainability'.  It is not enough to cover operating costs; projects need to generate capital for ongoing reinvestment in their content and/or technology if they are to grow and thrive.  The web environment is evolving rapidly and relentlessly.  It is incorrect to assume that, once the initial digitisation effort is finished and content is up on the web, the costs of maintaining a resource will drop to zero or nearly zero." (Guthrie et al 6)
+
+concern with projects that "have emerged or are emerging from such a research phase and have become valuable to specific academic audiences, but lack mechanisms to generate recurring financial resources to cover the ongoing costs associated with providing an ongoing service." (Guthrie et al 9)
+
+"So, what is at risk here?  In the print world, if a publisher failed or its books went out of print, some number of those books would still be available on library shelves.  And sometimes events would revitalise the academic value of those materials and they would come back into circulation.  When an online resource fails, its content may become completely unavailable, resulting in a real loss to teaching, learning, and research, not to mention the loss of the initial investment required to create it.  It is important therefore for the developers of these resources to think carefully and strategically about sustainability and long-term access to the materials they generate as they build these resources." (Guthrie et al 9)
+
+"As we transition from a period of experimentation to one that demands ongoing services, funders find that they are being asked to devote an increasing share of their resources to maintaining existing projects, limiting the funds they have available to support new innovation." (Guthrie et al 10)
+
+"We define 'sustainability' as having a mechanism in place for generating, or gaining access to, the economic resources necessary to keep the intellectual property or the service available on an ongoing basis." (Guthrie et al 10)
+
+"Another aspect of the challenge for OARs competing in the commercial network economy is that there is a strong set of mission-based reasons why not-for-profit OARs should be available to all potential users without charge.  All OAR projects must develop sustainable economic models whether they are Open Access or not; having a starting requirement that the resource be freely available simply restricts the range of revenue generating options available to the project." (Guthrie et al 11)
+
+"This study arose out of the increasing concerns expressed to us by philanthropic agencies that grantees were not making the transition from dependence on grants to alternative sources of financial support." (Guthrie et al 12)
+
+many OARs are focused on long-term development; "their grants are committed for multiple years and tied to a specific deliverable; the project staff spend extended periods of time developing a set of requirements around very specific workflows, or painstakingly identifying and acquiring rights to a highly curated set of content, only to lift their heads and find that the workflows have changed, or that the resource created has been overwhelmed by the changing needs and demands of users" (Guthrie et al 18)
+
+models of revenue generation for OARs include payment by direct beneficiaries (subscription or one-time payment; pay per use; contributor pays) and indirect beneficiaries (host institution support; corporate sponsorships; advertising; philanthropic funding; license content)
+
+[1]:     http://www.ithaka.org/publications/sustainability 
