@@ -1,4 +1,4 @@
-Althusser, Louis.  “Marxism and Humanism.” In For Marx.  trans. Ben Brewster.  New York: Pantheon, 1969. 219-47.
+# Althusser, Louis.  “Marxism and Humanism.” In *For Marx.*  trans. Ben Brewster.  New York: Pantheon, 1969. 219-47.
 
 
 objective of struggle has always been liberation, but in first phase, had to take form of class humanism (dictatorship of the proletariat)

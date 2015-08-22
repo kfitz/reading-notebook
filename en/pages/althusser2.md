@@ -1,7 +1,7 @@
-Althusser, Louis.  "Ideology and Ideological State Apparatuses," from Lenin and Philosophy and Other Essays.  trans. Ben Brewster.  New York: Monthly Review Press, 1971. 127-186.
+# Althusser, Louis.  "Ideology and Ideological State Apparatuses," from *Lenin and Philosophy and Other Essays.*  trans. Ben Brewster.  New York: Monthly Review Press, 1971. 127-186.
 
 
-ON THE REPRODUCTION OF THE CONDITIONS OF PRODUCTION
+## ON THE REPRODUCTION OF THE CONDITIONS OF PRODUCTION
 
 "The ultimate condition of production is...the reproduction of the conditions of production."
 
@@ -13,7 +13,7 @@ reproduction of labor power:  includes reproduction of "productive forces":  w
 
 reproduction of the relations of production
 
-INFRASTRUCTURE AND SUPERSTRUCTURE
+## INFRASTRUCTURE AND SUPERSTRUCTURE
 
 society = infrastructure (economic base) + superstructure (politico-legal & ideological)
 
@@ -21,7 +21,7 @@ topography; superstructure requires infrastructure; effects of spatial metaphor
 
 take point of view of reproduction
 
-THE STATE
+## THE STATE
 
 Marx/Lenin:  state as a repressive apparatus enabling capitalist exploitation
 
@@ -49,7 +49,7 @@ ISAs as stake and site of class struggle:  former ruling classes can maintain s
 
 what is the extent of the role of the ISAs?
 
-ON THE REPRODUCTION OF THE RELATIONS OF PRODUCTION
+## ON THE REPRODUCTION OF THE RELATIONS OF PRODUCTION
 
 secured by RSA and ISAs: RSA secures by force the political conditions of the relations of production; RSA also secures via repression the political conditions for action of ISAs, which largely secure the reproduction of the relations of production
 
@@ -65,7 +65,7 @@ ideological purpose of education is covered by an ideology of the School which r
 
 crises in families and schools are political crisis
 
-ON IDEOLOGY
+## ON IDEOLOGY
 
 Marx:  ideology = system of ideas and representations which dominate the mind of a man or group
 
@@ -101,7 +101,7 @@ mirror structure of all ideology -- a double structure; ensures:  "1. the inter
 
 two meanings of subject:  free subjectivity; a subjected being
 
-P.S.
+## P.S.
 
 reproduction of the relations of production only realized within the processes of production; made possible by ISAs
 
@@ -111,7 +111,7 @@ State and Apparatuses only have meaning in the class struggle
 
 ideology is realized in the installation of ISAs and so becomes the ruling ideology (class struggle in the ISAs)
 
-my afterthoughts:
+## my afterthoughts:
 
 The change that occurs between the earlier essays ("Marxism and Humanism" and "Contradiction and Overdetermination") and the ISA essay is a reduction of complexities to what has been labeled a "vulgar materialism."  In the earlier essays, Althusser puts forward that ideology is not determined by a simple correspondence to the "general contradiction" -- that of class -- but is rather "overdetermined" (from Freud) by a multiplicity of contradictions -- not simply class, but also race, gender, language, religion, etc.  Thus, ideology is not determined by a simple functioning of the base, but rather a complex functioning of the superstructures.  Indeed, in the earlier essays, his use of "ideology" is purposefully disconnected from the earlier, Sartrian connections of "ideology" with "false consciousness" (and thus ideology as a beautiful lie told by the ruling classes to keep the subordinate in line).  Ideology is, instead, a whole complex of multiple systems of representation which describe the imaginary relations of men and women to their real, lived conditions of existence.  However, by the time we reach the ISAs essay, all of this complexity and multiplicity has been reduced.  Ideology has become the dominant ideology.  The function of the superstructures has become, paradoxically, no more than to support the base (in that their production of "ideology" is put solely to the purpose of reproducing the current relations of production, and thus the capital/labor contradiction).  The multiplicity of contradictions which overdetermine ideology has been reduced to the general contradiction of class.  And, whereas there had previously been room for "residual" and "emergent" voices within the superstructure (as the superstructure was not so strictly controlled by the base), these voices are all but replaced by the self-replicating machine of the ISAs.
 

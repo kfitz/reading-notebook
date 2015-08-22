@@ -1,4 +1,4 @@
-Althusser, Louis.  “Contradiction and Overdetermination.” In For Marx.  trans. Ben Brewster.  New York: Pantheon, 1969.  87-128.
+# Althusser, Louis.  “Contradiction and Overdetermination.” In *For Marx.*  trans. Ben Brewster.  New York: Pantheon, 1969.  87-128.
 
 
 issues of multiple causality/determination — causality determined not merely by “single” effects of infrastructure (economic base) but by “multiple” effects of superstructure (RSA and ISAs)

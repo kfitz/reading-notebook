@@ -1,4 +1,4 @@
-Armstrong, Nancy. How Novels Think: The Limits of British Individualism From 1719-1900. New York: Columbia University Press, 2006.
+# Armstrong, Nancy. How Novels Think: The Limits of British Individualism From 1719-1900. New York: Columbia University Press, 2006.
 
 
 "According to eighteenth-century epistemology and moral philosophy, the modern subject came into being as it took in sensations from the outside world and, of that material, composed first the ideas and then the judgment and moral sense that gave it a self-enclosed and internally coherent identity" (Armstrong 1)

@@ -1,4 +1,4 @@
-Anderson, Chris. The Long Tail: Why the Future of Business is Selling Less of More. New York: Hyperion, 2006.
+# Anderson, Chris. *The Long Tail: Why the Future of Business is Selling Less of More*. New York: Hyperion, 2006.
 
 
 "Think of these falling distribution costs as a dropping waterline or a receding tide.  As they fall, they reveal a new land that has been there all along, just underwater.  These niches are a great uncharted expanse of products that were previously uneconomic to offer." (Anderson 6)

@@ -1,7 +1,7 @@
-Armstrong, Nancy. Desire and Domestic Fiction: A Political History of the Novel. New York: Oxford University Press, 1987.
+# Armstrong, Nancy. *Desire and Domestic Fiction: A Political History of the Novel*. New York: Oxford University Press, 1987.
 
 
-Introduction:  The Politics of Domesticating Culture, Then and Now
+## Introduction:  The Politics of Domesticating Culture, Then and Now
 
 domestic fiction's role in separating sexual relations from "politics," and thus localizing political power; connected to "the rise of the domestic woman" (Armstrong 3)
 
@@ -27,9 +27,9 @@ failures of both Watt and Gilbert & Gubar:  "Because both these histories of th
 
 "In dissolving the boundary between those texts that today are considered literature and those that, like the conduct books, are not, my study shows that the distinction between literary and nonliterary was imposed retrospectively by the modern literary institution upon anomalous works of fiction.  It shows as well that the domestic novel antedated -- was indeed necessarily antecedent to -- the way of life it represented" (Armstrong 9)
 
-"Rather than see the rise of the new middle class in terms of the economic changes that solidified its hold over the culture, my reading of materials for and about women shows that the formation of the modern political stgate -- in England at least -- was accomplished largely through cultural hegemony" (Armstrong 9)
+"Rather than see the rise of the new middle class in terms of the economic changes that solidified its hold over the culture, my reading of materials for and about women shows that the formation of the modern political state -- in England at least -- was accomplished largely through cultural hegemony" (Armstrong 9)
 
-"We are taught to divide the political world in two and to detach the practices that belong to a female domain from those that govern the marketplace.  In this way, we compulsively replicaate the symbolic behavior that constituted a private domain of the individual outside and apart from social history" (Armstrong 9-10)
+"We are taught to divide the political world in two and to detach the practices that belong to a female domain from those that govern the marketplace.  In this way, we compulsively replicate the symbolic behavior that constituted a private domain of the individual outside and apart from social history" (Armstrong 9-10)
 
 "politics events cannot be understood apart from women's history, from the history of women's literature, or from changing representations of the household.  Nor can a history of the novel be historical if it fails to take into account the history of sexuality.  For such a history remains, by definition, locked into categories replicating the semiotic behavior that empowered the middle class in the first place" (Armstrong 10)
 
@@ -75,7 +75,7 @@ Foucault "makes it possible to consider sexual relations as the site for changin
 
 "If my study of the novel clarifies only one point, then, I would like it to demonstrate the degree to which modern culture depends on a form of power that works through language -- and particularly the printed word -- to constitute subjectivity.  According to this premise, as purveyors of a specialized form of literacy, we invariably perpetuate the hegemony I have been describing.  That we do so is especially true when we make novels into literary texts where psychosexual themes control the meaning of cultural information that might otherwise represent some contrary political viewpoint.  When that happens, our interpretive procedures not only conceal the process by which the novels themselves reproduce modern forms of subjectivity.  Our procedures also conceal the degree to which we think and write novelistically in order to make sense of the past and of cultures different from our own" (Armstrong 25)
 
-1.  The Rise of Female Authority in the Novel
+## 1. The Rise of Female Authority in the Novel
 
 "the domestic novel as the agent and product of a cultural change that attached gender to certain kinds of writing" (Armstrong 28)
 
@@ -93,7 +93,7 @@ on fiction embedded in Rousseauan social contract:  "According to Althusser, th
 
 contract as "the central trope of Enlightenment discourse" (Armstrong 33)
 
-"To demonstrate the novel's implication in the larger historical process that brought the new middle classes into power, I have initially drawn from the works of Rousseau and Hume to suggeset how they transformed the themes of an earlier, aristocratic culture by arguing for the claimes of the individual over those of an elite political group.... But it took Jeremy Bentham's _The Theory of Fictions_ to explain how the power of the social contract was nothing other than the power of fiction.... In saying this, he is simply claiming that the actual distribution of power depends largely on the terms in which we agree to represent it." (Armstrong 34)
+"To demonstrate the novel's implication in the larger historical process that brought the new middle classes into power, I have initially drawn from the works of Rousseau and Hume to suggest how they transformed the themes of an earlier, aristocratic culture by arguing for the claims of the individual over those of an elite political group.... But it took Jeremy Bentham's _The Theory of Fictions_ to explain how the power of the social contract was nothing other than the power of fiction.... In saying this, he is simply claiming that the actual distribution of power depends largely on the terms in which we agree to represent it." (Armstrong 34)
 
 "If Rousseau's version of the contract implied that fictions are necessary for the individual to think of himself as a particular kind of self, then Hume's critique of the original contract implied that fictions ensure that various individuals will see themselves in relation to the same form of political authority.  Bentham argued simply that fiction itself was the only thing that held people in subjection to one kind of state and could, if properly understood, allow them to take charge over another" (Armstrong 35)
 
@@ -123,7 +123,7 @@ the sexual contract as narrative process
 
 "Novels rewarding self-assertion on the part of those in an inferior position undoubtedly provided the middle-class readership with a fable for their own emergence.  Especially when acted out as the options of a female protagonist, social competition could be sexualized and therefore suppressed even while it was being experienced" (Armstrong 51)
 
-2.  The Rise of the Domestic Woman
+## 2. The Rise of the Domestic Woman
 
 conduct books and other pedagogical writing for women created the possibility for "the new domestic woman rather than her counterpart, the new economic man" to be the one "who first encroached upon aristocratic culture and seized authority from it" (Armstrong 59)
 
@@ -133,7 +133,7 @@ conduct books and other pedagogical writing for women created the possibility fo
 
 "The illusion persists that there is a self independent of the material conditions that have produced it and that such a self can transform itself without transforming the social and economic configuration in opposition to which it is constructed" (Armstrong 94-95)
 
-3.  The Rise of the Novel
+## 3. The Rise of the Novel
 
 "By the mid-eighteenth century, new forms of writing were contending with those that had long dominated English thinking, each claiming the right to declare what features made a woman most desirable.... But in addition to conduct books, ladies magazines, and such newspapers as the _Tatler_, whose title was supposedly coined out of deference to its female readership, some authors created their idea of womankind out of the most unpromising material of all, namely, the novel.  The novel had a reputation for displaying not only the seamy undersides of English political life, but also sexual behavior of a semi-pornographic nature.  On both counts, it was considered a vulgar form of writing" (Armstrong 96)
 
@@ -147,7 +147,7 @@ Richardson's domestication of fiction:  "In writing _Pamela_, Richardson struck
 
 "If, by Austen's time, sexual relations are assumed to be the specialized knowledge of the female, and if it is in female writing that the terms of such relationships are figured out, then fiction fulfills its discursive function by exemplifying the conduct of relationships between men and women" (Armstrong 157-58)
 
-4.  History in the House of Culture
+## 4. History in the House of Culture
 
 "I would like to suggest that novels themselves generated our modern conviction that social conventions systematically suppressed forms of sexuality which existed prior to those conventions and made them necessary" (Armstrong 165)
 
@@ -159,7 +159,7 @@ domestic fiction of 1848: Wuthering Heights, Vanity Fair, Jane Eyre, Mary Barton
 
 "Domestic novels had once aspired to respectability, like Pamela herself, by remaining free of any taint of erotic desire.  With the Brontes, however, the history of the novel took a contrary turn.  In their hands, domestic fiction began playing out a fierce struggle to socialize desires whose origin and vicissitudes comprised one's true identity as well as his or her possibilities for growth" (Armstrong 198)
 
-5.  Seduction and the Scene of Reading
+## 5. Seduction and the Scene of Reading
 
 "This chapter will suggest how the trope of repression creates conditions for communication that maintain a certain form of social contract.  As the individual reads what is outside, he or she appears to be revealing what is inside and receiving, in turn, some liberating or therapeutic benefit" (Armstrong 204)
 
@@ -175,7 +175,7 @@ domestic fiction of 1848: Wuthering Heights, Vanity Fair, Jane Eyre, Mary Barton
 
 "In reality, analysis created mythological figures for the metaphysics of sexuality by endowing modern desire with a biological origin and form.  This mythology rendered the woman's authority over sexual desire -- whether it was manifested in Dora's nineteenth century sensibility or in Woolf's self-consciously verbal displays -- instantly anachronistic.  In the long run, Freud's professional voice and medical mythology determined the course that the discourse of sexuality pursued during the twentieth century" (Armstrong 250)
 
-Epilogue
+## Epilogue
 
 "I am suggesting that over time the novel produced a longuage of increasing psychological complexity for understanding individual behavior.  I am suggesting, too, that as fiction progressively uncovered the 'depths' of individual identity, a complex system of political signs was displaced.  SIgns of wealth, status, and religious affiliation began to define a 'surface' that had no reliable connection with the self in which true motivations were buried.  As the individual came to be known in this way, a modern form of power, which could not be distinguished from such knowledge, took over" (Armstrong 253-54)
 
