@@ -1,9 +1,9 @@
-Borgman, Christine L. Scholarship in the Digital Age: Information, Infrastructure, and the Internet. Cambridge, Mass: MIT Press, 2007.
+# Borgman, Christine L. *Scholarship in the Digital Age: Information, Infrastructure, and the Internet*. Cambridge, Mass: MIT Press, 2007.
 
 
 "While the new technologies receive the most attention, it is the underlying social and policy changes that are most profound and that will have the most lasting effects on the future scholarly environment." (Borgman xvii)
 
-1.  Scholarship at a Crossroads
+## 1.  Scholarship at a Crossroads
 
 "This is a critical juncture in building the next generation of scholarly information infrastructure.  The technology has advanced much more quickly than has our understanding of its present and potential uses.  Social research on scholarly practices is essential to inform the design of tools, services, and policies.  Design decisions made today will determine whether the Internet of tomorrow enables imaginative new forms of scholarship and learning -- or whether it simply reinforces today's tasks, practices, laws, business models, and incentives." (Borgman 3)
 
@@ -13,7 +13,7 @@ Borgman, Christine L. Scholarship in the Digital Age: Information, Infrastructur
 
 "Scholarly data and documents are of most value when they are interconnected rather than independent." (Borgman 10)
 
-2.  Building the Scholarly Infrastructure
+## 2.  Building the Scholarly Infrastructure
 
 "Years of investment in basic technical infrastructure may be required before the payoffs to daily practice can be achieved.  The discourse of digital scholarship already is creating high expectations, raising concerns about whether these expectations can be met in a reasonable period of time."  (Borgman 14)
 
@@ -29,7 +29,7 @@ joint NSF and JISC group "proposed a model of cyberinfrastructure in which scien
 
 "More problematic is setting and applying criteria for what is new.  In practice, individual scholars will have to make their own claims.  Whether those claims are accepted will depend on norms for peer reviewing, hiring, tenure, and promotion, and the rate at which those norms change." (Borgman 31)
 
-3.  Embedded Everywhere
+## 3.  Embedded Everywhere
 
 "Underlying the technical and policy developments are theories and philosophies about what is socially acceptable and appropriate." (Borgman 33)
 
@@ -41,7 +41,7 @@ joint NSF and JISC group "proposed a model of cyberinfrastructure in which scien
 
 "The best technologies often are those that are the least visible....  People want to spend less time wrestling with technology, and more time doing science or social science, studying the humanities, or learning in those disciplines." (Borgman 43)
 
-4.  The Continuity of Scholarly Communication
+## 4.  The Continuity of Scholarly Communication
 
 "Communication is the essence of scholarship....  Scholarship is an inherently social activity, involving a wide range of public and private interactions within a research community.  Publication, as the public report of research, is part of a continuous cycle of reading, writing, discussing, searching, investigating, presenting, submitting, and reviewing.  No scholarly publication stands alone.  Each new work in a field is positioned relative to others through the process of citing relevant literature." (Borgman 47)
 
@@ -53,7 +53,7 @@ joint NSF and JISC group "proposed a model of cyberinfrastructure in which scien
 
 "What has changed most since the days of print and post is the balance between public and private communication.  Conversations that previously were oral are now conducted by e-mail or online discussion lists, sometimes leaving a public record for a long period of time.  Presentations that would have been heard by a few people at a seminar are now widely available online via the posting of slides, speaking notes, and Webcasts.  Manuscripts, preprints, technical reports, and other written works that were circulated privately are now posted publicly.  Online communication has accelerated the amount of informal communication among scholars and simplified the dissemination of formal products of scholarship." (Borgman 49)
 
-"As the means for knowledge sharing and publication have changed, so ahve relationships among the many stakeholders in scholarly communication." (Borgman 55)
+"As the means for knowledge sharing and publication have changed, so have relationships among the many stakeholders in scholarly communication." (Borgman 55)
 
 "Academic scholarship has operated in what anthropologists refer to as a 'gift exchange culture'" (Borgman 56)
 
@@ -107,7 +107,7 @@ postpublication review includes "online commenting or annotation after publicati
 
 "Scholarly communication is best understood as a sociotechnical system, with a complex set of interactions among processes, structures, functions, and technologies.  The system is difficult to comprehend as a whole, due to the many methods, theories, variables, and levels of analysis applied.  Yet efforts to restructure scholarly communication must be based on an understanding of the structures and processes involved." (Borgman 73)
 
-5.  The Discontinuity of Scholarly Publishing
+## 5.  The Discontinuity of Scholarly Publishing
 
 "Shifts in intellectual property policy, the economics of scholarly publishing, and relationships between stakeholders have contributed to systemic restructuring." (Borgman 75)
 
@@ -207,7 +207,7 @@ of print:  "Copies tend to be distributed widely, often internationally.  It i
 
 "Much is at stake in the business models and policies for access to digital books.  Books carry many of the 'big ideas' of a culture.  We hand books down to subsequent generations.  Receiving a subscription to a digital library is much different than inheriting physical artifacts that have been read, annotated, and contemplated by generations before." (Borgman 114)
 
-6.  Data:  Input and Output of Scholarship
+## 6.  Data:  Input and Output of Scholarship
 
 "Data sets are becoming an end product of research, supplementing the traditional role of scholarly publications.... If related data and documents can be linked together in a scholarly information infrastructure, creative new forms of data- and information-intensive, distributed, collaborative, multidisciplinary research and learning become possible." (Borgman 115)
 
@@ -229,7 +229,7 @@ issues of legitimization, dissemination, and preservation/curation of data
 
 issues of access to data, incl. copyright, public domain, etc.
 
-7.  Building an Infrastructure for Information
+## 7.  Building an Infrastructure for Information
 
 "The risks in constructing grand technological infrastructures lie in assuming that 'if we build it, they will come.'... Scholars do adopt new technologies when they see sufficient advantage in doing so, but they adapt them to their needs.  Thus, to determine what infrastructure tools and services will be most useful, it is necessary to understand who the users are and how they conduct their research." (Borgman 149)
 
@@ -267,7 +267,7 @@ on the reproduction in digital form of the print mode of scholarly publications:
 
 "Studies in the United States and the United Kingdom found that faculty are more interested in simply ways to manage their own publications than in open access as a public service to the community.  Functions that facilitate the personal use of publications such as generating reports for departmental and personnel reviews are greater incentives to contribute than are benefits such as improved metadata." (Borgman 173)
 
-8.  Disciplines, Documents, and Data
+## 8.  Disciplines, Documents, and Data
 
 "The nature of artifacts, the associated practices, and the incentives for scholars to contribute their work to the content layer are assessed first for the sciences, then the social sciences, and lastly the humanities." (Borgman 179)
 
@@ -287,7 +287,7 @@ in the humanities, "the view still prevails that technology is not a necessary t
 
 "Scholars continue to rely on the publishing system to guarantee that the products of their work are legitimized, disseminated, preserved, curated, and made accessible.  Despite its unstable state, the system does exist, resting on relationships among libraries, publishers, universities, scholars, students, and other stakeholders." (Borgman 225)
 
-9.  The View from Here
+## 9. The View from Here
 
 "the real value in information infrastructure is in the information.  Building the content layer of that infrastructure is both the greatest challenge and the greatest potential payoff of these programs.  Only when the content layer is robust can data mining and other services succeed."  (Borgman 227)
 

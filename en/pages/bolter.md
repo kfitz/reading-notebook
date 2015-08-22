@@ -1,4 +1,4 @@
-Bolter, J. David. “Ekphrasis, Virtual Reality, and the Future of Writing.” In The Future of the Book. Ed. Geoffrey Nunberg. Berkeley: University of California Press, 1996. 253-72.
+# Bolter, J. David. “Ekphrasis, Virtual Reality, and the Future of Writing.” In *The Future of the Book*. Ed. Geoffrey Nunberg. Berkeley: University of California Press, 1996. 253-72.
 
 
 "For the skeptics, one danger in electronic writing is its apparent detachment from the material basis of all writing." (Bolter 253)

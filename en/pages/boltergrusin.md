@@ -1,6 +1,6 @@
-Bolter, Jay David, and Grusin, Richard.  Remediation:  Understanding New Media.  Cambridge, Mass.:  MIT Press, 1999.
+# Bolter, Jay David, and Grusin, Richard.  *Remediation:  Understanding New Media*.  Cambridge, Mass.:  MIT Press, 1999.
 
-Introduction
+## Introduction
 
 the "double logic of remediation.  Our culture wants both to multiply its media and to erase all traces of mediation:  ideally, it wants to erase its media in the very act of multiplying them." (Bolter and Grusin 5) -- immediacy and hypermediacy
 
@@ -10,8 +10,8 @@ two logics are not merely contradictory but interdependent
 
 "Our primary concern will be with visual technologies, such as computer graphics and the World Wide Web.  We will argue that these new media are doing exactly what their predecessors have done:  presenting themselves as refashioned and improved versions of other media.  Digital visual media can best be understood through the ways in which they honor, rival and revise linear-perspective painting, photography, film, television, and print.  No medium today, and certainly no single media event, seems to do its cultural work in isolation form other media, any more than it works in isolation from other social and economic forces.  What is new about new media comes from the particular ways in which they refashion older media and the ways in which older media refashion themselves to answer the challenges of new media."  (Bolter and Grusin 14-15)
 
-Theory
-1.  Immediacy, Hypermediacy, and Remediation
+## Theory
+### 1.  Immediacy, Hypermediacy, and Remediation
 
 genealogy of two logics of remediation; not claiming them as universal aesthetic truths, but specific historical practices of specific groups
 
@@ -35,7 +35,7 @@ tv and WWW are "engaged in an unacknowledged competition in which each now seeks
 
 remediation is not a transitional step, as Holtzman argues about repurposing, but rather a constant dialectic
 
-2.  Mediation and Remediation
+### 2.  Mediation and Remediation
 
 "Hypermedia and transparent media are opposite manifestations of the same desire:  the desire to get past the limits of representation and to achieve the real." (Bolter and Grusin 53) -- the real is here not a metaphysical real but rather the real of the viewer's experience
 
@@ -47,7 +47,7 @@ remediation can function in different ways:  as the mediation of mediation; as 
 
 "Each new medium is justified because it fills a lack or repairs a fault in its predecessor, because it fulfills the unkept promise of an older medium.  (Typically, of course, users did not realize that the older medium had failed in its promise until the new one appeared.)" (Bolter and Grusin 60)
 
-3.  Networks of Remediation
+### 3.  Networks of Remediation
 
 what is a medium?  "a medium is that which remediates." (Bolter and Grusin 65)
 
@@ -63,8 +63,8 @@ the remediation of the gendered gaze:  Durer woodcut "suggests the possibility 
 
 psychosexual reading of immediacy/hypermediacy -- linear (i.e. straight) v. polymorphous(ly perverse)
 
-Media
-4.  Computer Games
+## Media
+### 4.  Computer Games
 
 computer games as a remediation of computing power; visually complex games also remediate film and television
 
@@ -72,13 +72,13 @@ Myst's allegory remediates the book:  "the book as a text should be replaced by
 
 pornography as one of first uses of new media forms
 
-5.  Digital Photography
+### 5.  Digital Photography
 
 "At first, then, there seems to be a simple dichotomy:  digital photography is hypermediated, while analog photography is transparent.  Digital photography appears to complicate and even to mock the desire for immediacy that traditional photography promises to satisfy.  On the other hand, because a digital photograph can sometimes be regarded as transparent, it too can express our desire for immediacy." (Bolter and Grusin 111)
 
-6.  Photorealistic Graphics
+### 6.  Photorealistic Graphics
 
-7.  Digital Art
+### 7.  Digital Art
 
 digital art often photorealistic in style, but fantastic in content
 
@@ -86,13 +86,13 @@ use of allegory in digital art; "remediation through parody" (Bolter and Grusin 
 
 electronic art v. computer art
 
-8.  Film
+### 8.  Film
 
 in Toy Story, computer graphics remediate film, but film also remediates computer graphics
 
 in the Hollywood style, transparency is the status quo; "hypermediacy is equated with dreams, mental disorder, or insanity" (Bolter and Grusin 152); experimental or avant-garde film has always been hypermediated
 
-9.  Virtual Reality
+### 9.  Virtual Reality
 
 VR as clearest example of transparent immediacy; "the medium that best expresses the contemporary definition of the self as a roving point of view" (Bolter and Grusin 161); cultural metaphor for the ideal of perfect mediation
 
@@ -100,7 +100,7 @@ AI (computer as symbol manipulator) replaced by VR (computer as graphics engine)
 
 VR as remediation of the subjective style of film
 
-10.  Mediated Spaces
+### 10.  Mediated Spaces
 
 Disney and the remediation of the amusement park; Disneyland as the ground on which film and television could meet
 
@@ -112,7 +112,7 @@ cyberspace as nonplace:  "Cyberspace is a shopping mall in the ether" (Bolter a
 
 the theology of cyberspace leads to utopian descriptions that ignore the material limitations; rejection of material world and human body
 
-11.  Television
+### 11.  Television
 
 primary target of remediation is film; tv has always been open about mediation, but nonetheless has immediate styles (reality programming)
 
@@ -120,7 +120,7 @@ hypermediacy in news programming (windowed style of CNN)
 
 television's remediation of the real
 
-12.  The World Wide Web
+### 12.  The World Wide Web
 
 ability to transmit graphics created large web audience; also allowed web to refashion larger group of older media forms
 
@@ -128,18 +128,18 @@ web's archival function:  "Perhaps developers of these web sites and our popula
 
 web apps refashion newer perceptual media (radio, tv, telephone) more aggressively than older forms; hypermediacy dominates
 
-13.  Ubiquitous Computing
+### 13.  Ubiquitous Computing
 
 telepresence; augmented reality
 
 "Where virtual reality invites the user to become part of a world beyond mediation, ubiquitous computing offers the user a world in which everything is a medium, because everything is or contains a computing device." (Bolter and Grusin 217)
 
-14.  Convergence
+### 14.  Convergence
 
 "Convergence is remediation under another name, and the remediation is mutual:  the Internet refashions television even as television refashions the Internet." (Bolter and Grusin 224)
 
-Self
-15.  The Remediated Self
+## Self
+### 15.  The Remediated Self
 
 we see ourselves in media -- "This is not to say that our identity is fully determined by media, but rather that we employ media as vehicles for defining both personal and cultural identity." (Bolter and Grusin 231)
 
@@ -153,7 +153,7 @@ hypermediated self becomes necessary because true immediacy is impossible
 
 desire for immediacy as male desire?  denial of mediation as denial of body; recent feminist theory (Haraway, Balsamo, Stone, etc.) insists on embodiment of self and complex relationship between body and technology
 
-16.  The Virtual Self
+### 16.  The Virtual Self
 
 virtual adoption of alternate points of view as training for liberal empathy
 
@@ -161,12 +161,12 @@ does VR tend toward disembodiment and thus reinforce the Cartesian dualism, or i
 
 "Those who insist that the body plays an undeniable part in the definition of the contemporary self should be prepared to recognize the mediations of the body that must also be part of that definition." (Bolter and Grusin 254)
 
-17.  The Networked Self
+### 17.  The Networked Self
 
 MUD participants clear about their mediated status
 
 gender simultaneously erased and inscribed
 
-18.  Conclusion
+### 18.  Conclusion
 
 endless enthusiasm in West for new media developments; apparently "a medium must be new in order to be significant" (Bolter and Grusin 270); all new developments must be revolutions, but all are in fact remediations

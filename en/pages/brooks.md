@@ -1,6 +1,6 @@
-Brooks, Peter.  Reading for the Plot: Design and Intention in Narrative.  Cambridge, Mass:  Harvard University Press, 1992.
+# Brooks, Peter.  *Reading for the Plot: Design and Intention in Narrative*.  Cambridge, Mass:  Harvard University Press, 1992.
 
-Preface
+## Preface
 
 "This is a book about plots and plotting, about how stories come to be ordered in significant form, and also about our desire and need for such orderings" (Brooks xi)
 
@@ -24,7 +24,7 @@ our sense of plot has "been molded by the great nineteenth-century narrative tra
 
 "psychoanalysis promises, and requires, that in addition to linguistic paradigms and the rules of the sign-system, we engage the dynamic of memory and the history of desire as they work to shape the creation of meaning within time.  My aim here is in some measure to make good on the claim -- put forward by Susan Sontag some years ago -- that rather than theories of interpretation we need an 'erotics' of art" (Brooks xiv-xv)
 
-1.  Reading for the Plot
+## 1. Reading for the Plot
 
 "Our lives are ceaselessly intertwined with narrative, with the stories that we tell and hear told, those we dream or imagine or would like to tell, all of which are reworked in that story of our own lives that we narrate to ourselves in an episodic, sometimes semi-conscious, but virtually uninterrupted monologue" (Brooks 3)
 
@@ -102,7 +102,7 @@ Benjamin:  "what we seek in narrative fictions is that knowledge of death which
 
 "we look to a convergence of psychoanalysis and literary criticism because we sense that there ought to be a correspondence between literary and psychic dynamics, since to an important degree we define and construct our sense of self through our fictions, within the constraints of a transindividual symbolic order" (Brooks 36)
 
-2.  Narrative Desire
+## 2. Narrative Desire
 
 "Plot as we have defined it is the organizing line and intention of narrative, thus perhaps best conceived as an activity, a structuring operation elicited in the reader trying to make sense of those meanings that develop only through textual and temporal succession.  Plot in this view belongs to the reader's 'competence,' and in his 'performance' -- the reading of narrative -- it animates the sense-making process:  it is a key component of that 'passion of (for) meaning' that, Barthes says, lights us afire when we read.  We can, then conceive of the reading of plot as a form of desire that carries us forward, onward, though the text.  Narrative both tell of desire -- typically present some story of desire -- and around and make use of desire as dynamic of signification" (Brooks 37)
 
@@ -140,7 +140,7 @@ Benjamin:  "what we seek in narrative fictions is that knowledge of death which
 
 on Scheherezade:  "Narrative, in this allegory, is seen to be life-giving in that it arouses and sustains desire, ensuring that the terminus it both delays and beckons toward will offer what we might call a lucid repose, desire both come to rest and set in perspective" (Brooks 61)
 
-3.  The Novel and the Guillotine, or Fathers and Sons in _Le Rouge et le noir_
+## 3. The Novel and the Guillotine, or Fathers and Sons in _Le Rouge et le noir_
 
 paternity as the "dominant issue" of nineteenth and early twentieth century novels
 
@@ -150,7 +150,7 @@ Freud and the "family romance"
 
 "Plot itself -- narrative design and intention -- is the figure of displacement, desire leading to change of position.  The plotted narrative is a deviance from or transgression of the normal, a state of abnormality and error, which alone is 'narratable'" (Brooks 84-85)
 
-4.  Freud's Masterplot:  A Model for Narrative
+## 4. Freud's Masterplot: A Model for Narrative
 
 "Our exploration so far of how plots may work and what may motivate them suggests, if not the need, at least the intellectual desirability of finding a model -- a model that would provide a synthetic and comprehensive grasp of the workings of plot, in the most general sense, and of the uses for plot.  To meet these requirements, such a model will have to be more dynamic than those most often proposed by the structuralists; it will have to provide ways to think about the movement of plot and its motor force in human desire, its peculiar relation to beginnings and ends, its apparent claim to rescue meaning from temporal flux" (Brooks 90)
 
@@ -260,7 +260,7 @@ reading of _Great Expectations_ points out a "paradox that in this most highly p
 
 "[Wilkie] Collins's representations of readers and writers constantly scribbling and constantly reading one another, even when they weren't meant to, suggests an image of the popular serial novel as a prelapsarian age of unlimited storytelling and the unlimited consumption of story: a world in which narrative, whatever the subject, enormously mattered.  Yet, of course, the age of the popular serial novel was tied firmly to the new industrial means and modes of production and distribution, to the devouring presses that it had to feed.  With the vastly increased circulation of fact goes a similarly multiplied circulation of fiction.  The middle decades of the nineteenth century seemed to have an unlimited appetite for narrative" (Brooks 170)
 
-7.  Retrospective Lust, of Flaubert's Perversities
+## 7. Retrospective Lust, of Flaubert's Perversities
 
 Flaubert's _L'Education sentimentale_
 
@@ -270,27 +270,27 @@ Flaubert's _L'Education sentimentale_
 
 "The novel ends with Frédéric and Deslauriers conferring special privilege on a moment that does not fall within the normal chronology of the novel, a moment presented at the very end that in fact predates the beginning.  This striking analepsis, prefigurative of such a later novelist as Faulkner, seems to say that everything we have read in this very long novel is somehow secondary to the unrecorded moment of three years before it began.  It is as if the novel suddenly discovers that it began too late, that the *sjuzet* started out without knowing or accounting for an essential moment of the *fabula* -- as if we had all along been reading a detective story that only at the end leads us to its essential clue, and an unfair detective story, in that it gave us no way of knowing that the essential clue really lay outside the time frame it originally established; or as if we were in one of Freud's case histories, where it transpires that all that has been remembered must be conceived as a screen memory, masking the real scene of trauma, which comes out only at the end.  Closure here also uncloses, suggesting that novels, like analyses, may in essence be interminable" (Brooks 211-12)
 
-8.  Narrative Transaction and Transference
+## 8. Narrative Transaction and Transference
 
 "The shapes taken by stories and the reasons for their telling suggest the need to explore more fully the narrative sigutation -- narrative *in situation* between teller and listener -- and the kinds of reaction and understanding that narratives appear to want to elicit.  All storytelling, Roland Barthes maintains, is contractual:  it asks for something in return for what it supplies" (Brooks 216)
 
 "Our exploration of narrative in the situation of its telling and its listening has led to the sketch of a transferential model of the text that seems to me pertinent and even crucial to the description of narrative as a process of dynamic exchange.  For it is impotant to consider not only what a narrative is, but what it is for, and what its stakes are:  why it is told, what aims it may manifest and conceal, what it seeks not only to say but to do" (Brooks 235-36)
 
-9.  An Unreadable Report:  Conrad's _Heart of Darkness_
+## 9. An Unreadable Report: Conrad's _Heart of Darkness_
 
 "We need now to consider a number of the issues we have raised, concerning endings, authority, repetition, and the transaction of narratives, in the context of the 'crisis' in the understanding of plots and plotting brought by the advent of Modernism" (Brooks 238)
 
 frame structure and narrative layerings in _Heart of Darkness_; each retelling is required because of the failures of previous tellings
 
-10.  Fictions of the Wolf Man:  Freud and Narrative Understanding
+## 10. Fictions of the Wolf Man: Freud and Narrative Understanding
 
-"Like the two great representative novels of European Modernism that I have evoked [Mann's _The Magic Mountain_ and Proust's _Recherche_], the story of the Wolf Man contains within it the outline of a 'standard' nineteenth-century narrative -- the story of a coherent individual in society and within history -- yet, again like these novels, so complicated and undermined by the process of its telling that the apparent premises of the nineteenth-century narrrative mode are put into question.  In a manner yet more radical than Mann's or even Proust's -- perhaps more nearly approaching Faulkner's -- Freud's case history involves a new questioning of how life stories go together, how narrative units combine in significant sequence, where cause and effect are to be sought, and how meaning is related to narration" (Brooks 268)
+"Like the two great representative novels of European Modernism that I have evoked /[Mann's _The Magic Mountain_ and Proust's _Recherche_/], the story of the Wolf Man contains within it the outline of a 'standard' nineteenth-century narrative -- the story of a coherent individual in society and within history -- yet, again like these novels, so complicated and undermined by the process of its telling that the apparent premises of the nineteenth-century narrrative mode are put into question.  In a manner yet more radical than Mann's or even Proust's -- perhaps more nearly approaching Faulkner's -- Freud's case history involves a new questioning of how life stories go together, how narrative units combine in significant sequence, where cause and effect are to be sought, and how meaning is related to narration" (Brooks 268)
 
-11.  Incredulous Narration:  _Absalom, Absalom!_
+## 11. Incredulous Narration: _Absalom, Absalom!_
 
 "We need to ask three straightforward, quite naive questions:  What do they recount?  How do they know it?  What is their motive, their investment in what they recount?" (Brooks 297)
 
-In Conclusion:  Endgames and the Study of Plot
+## In Conclusion: Endgames and the Study of Plot
 
 "Any closure to our subject would be artificially imposed:  the story of plot may be interminable, the examples calling for attention are legion, and any terminus reached suggests the need for a revisionary epilogue, another perspective, a different narrative" (Brooks 313)
 

@@ -1,11 +1,12 @@
-Bousquet, Marc. How the University Works: Higher Education and the Low-Wage Nation.  New York: NYU Press, 2008.
+# Bousquet, Marc. *How the University Works: Higher Education and the Low-Wage Nation*.  New York: NYU Press, 2008.
 
-Foreword, Cary Nelson
+## Foreword, Cary Nelson
 
 "What models of higher education have a chance to survive the effects of commodification, quantification, and corporatization? Marc believes that the university can recover its powers of critique, but only after we admit its thorough penetration by capital.  Indeed throughout its history, the university had never had complete autonomy.  What it has had, to use the Althusserian term, is a set of continually renegotiated and variable forms of relative autonomy." (xvi)
 
 "Having devoted a century to analyzing literary objects of adulation and a few decades to interrogating less appealing regimes of power, the job system compels us to turn inward.  It is ourselves we must scrutinize, however reluctant we are to do so.  We are the people who staff and maintain the system that exists.  It operates not merely with our consent but with our sustaining labor." (xvi)
-1. Introduction
+
+## 1. Introduction
 
 "Campus administrations have steadily diverged from the ideals of faculty governance, collegiality, and professional self-determination.  Instead they have embraced the values and practices of corporate management." (1)
 

@@ -1,4 +1,4 @@
-Bloom, Harold. The Anxiety of Influence: A Theory of Poetry. New York: Oxford University Press, 1973.
+# Bloom, Harold. *The Anxiety of Influence: A Theory of Poetry*. New York: Oxford University Press, 1973.
 
 
 Oscar Wilde failed as a poet "because he lacked the strength to overcome his anxiety of influence" (Bloom 5-6)
