@@ -1,6 +1,6 @@
-Baudrillard, Jean.  The Mirror of Production.  trans. Mark Poster.  St. Louis: Telos Press, 1975.
+# Baudrillard, Jean.  *The Mirror of Production.*  trans. Mark Poster.  St. Louis: Telos Press, 1975.
 
-TRANSLATOR'S INTRODUCTION
+## TRANSLATOR'S INTRODUCTION
 
 Marxism as "an inadequate perspective for the critical analysis of advanced society" (Poster 1)
 
@@ -38,7 +38,7 @@ Marxism becomes ideological not in its relation to practice (see Althusser) but 
 
 illegitimacy of Marxism's projecting the mode of production onto earlier social systems
 
-PREFACE
+## PREFACE
 
 "A specter haunts the revolutionary imagination: the phantom of production.  Everywhere it sustains an unbridled romanticism of productivity." (Baudrillard 17)
 
@@ -52,13 +52,13 @@ dominance of productivist discourse -- but isn't it merely a metaphor?
 
 "Marx did not subject the form production to a radical analysis any more than he did the form representation." (Baudrillard 20)
 
-I. THE CONCEPT OF LABOR
+## I. THE CONCEPT OF LABOR
 
-CRITIQUE OF USE VALUE AND LABOR POWER
+### CRITIQUE OF USE VALUE AND LABOR POWER
 
-THE CONCRETE ASPECT OF LABOR: THE 'DIALECTIC' OF QUALITY AND QUANTITY
+### THE CONCRETE ASPECT OF LABOR: THE 'DIALECTIC' OF QUALITY AND QUANTITY
 
-MAN'S DOUBLE 'GENERIC' FACE
+### MAN'S DOUBLE 'GENERIC' FACE
 
 "In fact the use value of labor power does not exist any more than the use value of products or the autonomy of signified and referent.  The same fiction reigns in the three orders of production, consumption, and signification." (Baudrillard 30)
 
@@ -66,83 +66,83 @@ MAN'S DOUBLE 'GENERIC' FACE
 
 "Marx translated this concept into the logic of material production and the historical dialectic of modes of production.  But differentiating modes of production renders unchallengeable the evidence of production as the determinant instance." (Baudrillard 33)
 
-ETHIC OF LABOR; ESTHETIC OF PLAY
+### ETHIC OF LABOR; ESTHETIC OF PLAY
 
 "Once again, at the heart of its strategy, in its analytic distinction between quantity and quality, Marxist thought inherits the esthetic and humanistic virus of bourgeois thought" (Baudrillard 39)
 
-MARX AND THE HIEROGLYPH OF VALUE
+### MARX AND THE HIEROGLYPH OF VALUE
 
 "The real rupture is not between 'abstract' labor and 'concrete' labor, but between symbolic exchange and work (production, economics)." (Baudrillard 45)
 
 "In order to question the process which submits us to the destiny of political economy and the terrorism of value, and to rethink discharge and symbolic exchange, the concepts of production and labor developed by Marx (not to mention political economy) must be resolved and analyzed as ideological concepts interconnected with the general system of value.  And in order to find a realm beyond economic value (which is in fact the only revolutionary perspective), then the mirror of production in which all Western metaphysics is reflected, must be broken." (Baudrillard 47)
 
-EPISTEMOLOGY I: IN THE SHADOW OF MARXIST CONCEPTS
+### EPISTEMOLOGY I: IN THE SHADOW OF MARXIST CONCEPTS
 
 metaphysics: universalization of Marxist concepts (history, etc.)
 
 theoretical imperialism
 
-THE CRITIQUE OF POLITICAL ECONOMY IS BASICALLY COMPLETED
+### THE CRITIQUE OF POLITICAL ECONOMY IS BASICALLY COMPLETED
 
 "Marx made a radical critique of political economy, but still in the form of political economy." (Baudrillard 50)
 
 "the critique of the political economy of the sign" (Baudrillard 51)
 
-II. MARXIST ANTHROPOLOGY AND THE DOMINATION OF NATURE
+## II. MARXIST ANTHROPOLOGY AND THE DOMINATION OF NATURE
 
-THE MORAL PHILOSOPHY OF THE ENLIGHTENMENT
+### THE MORAL PHILOSOPHY OF THE ENLIGHTENMENT
 
-LYCURGUS AND CASTRATION
+### LYCURGUS AND CASTRATION
 
-JUDEO-CHRISTIAN ANTI-PHYSIS
+### JUDEO-CHRISTIAN ANTI-PHYSIS
 
 "Christianity is thus on the hinge of a rupture of symbolic exchanges." (Baudrillard 64)
 
-EPISTEMOLOGY II: STRUCTURAL LIMITS OF THE MARXIST CRITIQUE
+### EPISTEMOLOGY II: STRUCTURAL LIMITS OF THE MARXIST CRITIQUE
 
 "Marxism is the projection of the class struggle and the mode of production onto all previous history; it is the vision of a future 'freedom' based on the conscious domination of nature.  These are extrapolations of the economic.  To the degree that it is not radical, Marxist critique is led despite itself to reproduce the roots of the system of political economy." (Baudrillard 67)
 
-III. HISTORICAL MATERIALISM AND PRIMITIVE SOCIETIES
+## III. HISTORICAL MATERIALISM AND PRIMITIVE SOCIETIES
 
 "Having analyzed the rewriting of Nature according to the code of production, it is also necessary to analyze the rewriting of History through the mode of production." (Baudrillard 69)
 
-STRUCTURAL CAUSALITY AND THE PRIMITIVES
+### STRUCTURAL CAUSALITY AND THE PRIMITIVES
 
 "By an adjustment of the concept of the mode of production, Marxist anthropology thus seeks from beginning to end to preserve materialist orthodoxy against the heresy of primitive societies." (Baudrillard 71)
 
-SURPLUS AND ANTI-PRODUCTION
+### SURPLUS AND ANTI-PRODUCTION
 
 "theoretical racism" (Baudrillard 80)
 
-MAGIC AND LABOR
+### MAGIC AND LABOR
 
-EPISTEMOLOGY III: MATERIALISM AND ETHNOCENTRISM
+### EPISTEMOLOGY III: MATERIALISM AND ETHNOCENTRISM
 
 "Western culture was the first to critically reflect upon itself (beginning in the 18th century). But the effect of this crisis was that it reflected on itself also as a culture in the universal, and thus all other cultures were entered in its museum as vestiges of its own image. . . . The limits of this culture 'critique' are clear: its reflection on itself leads only to the universalization of its own principles. . . . The limits of materialist interpretation of other societies are the same." (Baudrillard 89)
 
-IV. ON THE ARCHAIC AND FEUDAL MODE
+## IV. ON THE ARCHAIC AND FEUDAL MODE
 
-THE SLAVE
+### THE SLAVE
 
 "[The slave] is being defined as a function of the distinction between labor and labor power . . . What is lost in this process is everything that is exchanged in the master-slave relation and everything not reducible to the alienation-exploitation of a labor power." (Baudrillard 93-94)
 
-THE ARTISAN
+### THE ARTISAN
 
 "The status of the artisan is defined not only by the ownership of his 'labor power' (as distinct from the slave) but, as distinct from the salaried worker, by the ownership of his 'instruments of production.'" (Baudrillard 96)
 
 "That is the basic definition of the artisan class: a mode of social relations in which not only is the process of production controlled by the producer but in which the collective process remains internal to the group, and in which producers and consumers are the same people, above all defined through the reciprocity of the group." (Baudrillard 97)
 
-EPISTEMOLOGY IV: MARXISM AND MISCOMPREHENSION
+### EPISTEMOLOGY IV: MARXISM AND MISCOMPREHENSION
 
 "an incurable ethnocentrism of the code" (Baudrillard 107)
 
-V. MARXISM AND THE SYSTEM OF POLITICAL ECONOMY
+## V. MARXISM AND THE SYSTEM OF POLITICAL ECONOMY
 
-A EUCLIDEAN GEOMETRY OF HISTORY?
+### A EUCLIDEAN GEOMETRY OF HISTORY?
 
 "As if by chance, the reality of the mode of production enters the scene at the moment when someone is discovered who invents the theory of it." (Baudrillard 113)
 
-THE THIRD PHASE OF POLITICAL ECONOMY
+### THE THIRD PHASE OF POLITICAL ECONOMY
 
 three phases: 1. only surplus of material production is exchanged; 2. entire volume of material production is exchanged; 3. even the inalienable is exchanged
 
@@ -158,18 +158,18 @@ mutation in the break between 2 and 3 is "the passage from the form-commodity to
 
 "the signified and the referent are now abolished to the sole profit of the play of signifiers, of a generalized formalization in which the code no longer refers back to any subjective or objective 'reality,' but to its own logic." (Baudrillard 127)
 
-CONTRADICTION AND SUBVERSION: THE DISPLACEMENT OF THE POLITICAL
+### CONTRADICTION AND SUBVERSION: THE DISPLACEMENT OF THE POLITICAL
 
 "the system no longer needs universal productivity; it requires only that everyone play the game." (Baudrillard 132)
 
 "By making itself an accomplice of this diversion, Marxism is very simply exploited by capitalism as a force in ideological labor" (Baudrillard 139)
 
-POLITICAL REVOLUTION AND 'CULTURAL' REVOLUTION
+### POLITICAL REVOLUTION AND 'CULTURAL' REVOLUTION
 
-THE ECONOMIC AS IDEOLOGY AND SIMULATION MODEL
+### THE ECONOMIC AS IDEOLOGY AND SIMULATION MODEL
 
-MARXIST THEORY AND THE WORKERS' MOVEMENT: THE CONCEPT OF CLASS
+### MARXIST THEORY AND THE WORKERS' MOVEMENT: THE CONCEPT OF CLASS
 
-REVOLUTION AS FINALITY: HISTORY IN SUSPENSE
+### REVOLUTION AS FINALITY: HISTORY IN SUSPENSE
 
-THE RADICALITY OF UTOPIA
+### THE RADICALITY OF UTOPIA

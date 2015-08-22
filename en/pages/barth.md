@@ -1,4 +1,4 @@
-Barth, John.  "The Literature of Exhaustion."  *Atlantic* 220 (August 1967): 29-34.
+# Barth, John.  "The Literature of Exhaustion."  *Atlantic* 220 (August 1967): 29-34.
 
 
 article primarily on Borges, but also "some professional concerns of my own" (Barth 29) -- concerns = anxieties?
