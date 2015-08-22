@@ -1,7 +1,7 @@
-Austin, J.L.  How to Do Things with Words.  Cambridge, MA:  Harvard University Press:  1962.
+# Austin, J.L.  *How to Do Things with Words*.  Cambridge, MA:  Harvard University Press:  1962.
 
 
-Lecture I
+## Lecture I
 
 mistaken assumption of philosophers that "statements" are only descriptive or factual; grammarians understand that not all "sentences" are "statements"
 
@@ -17,7 +17,7 @@ Performative utterances:  "A.  they do not 'describe' or 'report' or constate 
 
 performatives are not "true" or "false," but performed in good or bad faith, successful or unsuccessful
 
-Lecture II
+## Lecture II
 
 "It is worth of note that, as I am told, in the American law of evidence, a report of what someone else said is admitted as evidence if what he said is an utterance of our performative kind:  because this is regarded as a report not so much of something he said, as which it would be hear-say and not admissible as evidence, but rather as something he did, an action of his" (Austin 13).
 
@@ -31,7 +31,7 @@ misfires may be divided into misinvocations, misapplications, misexecutions
 
 various infelicities not exhaustive or mutually exclusive
 
-Lecture III
+## Lecture III
 
 examples of various infelicities
 
@@ -39,7 +39,7 @@ is it necessary for the person being ordered to do something to agree with the o
 
 implicit or "primitive" performatives in addition to explicit ones
 
-Lecture IV
+## Lecture IV
 
 other infelicities -- insincerities, lies
 
@@ -49,13 +49,13 @@ entails:  if p entails q, then \~q entails \~p; implies: contradiction suggests
 
 "in order to explain what can go wrong with statements we cannot just concentrate on the proposition involved (whatever that is) as has been done traditionally.  We must consider the total situation in which the utterance is issued -- the total speech-act -- if we are to see the parallel between statements and performative utterances, and how each can go wrong.  Perhaps indeed there is no great distinction between statements and performative utterances" (Austin 52).
 
-Lecture V
+## Lecture V
 
 is there some grammatical way to absolutely distinguish the performative from the constative?  or is it a question of vocabulary?
 
 "We said that the idea of a performative utterance was that it was to be (or to be included as part of) the performance of an action.  Actions can only be performed by persons, and obviously in our cases the utterer must be the performer:  hence our justifiable feeling -- which we wrongly cast into purely grammatical mould -- in favor of the 'first person', who must come in, being mentioned or referred to; moreover, if the utterer is acting, he must be doing something -- hence our perhaps ill-expressed favouring of the grammatical present and grammatical active of the verb.  There is something which is at the moment of uttering being done by the person uttering" (Austin 60). -- and yet -- two of the non-first person examples he gives are signs; there, the signs and their readers produce the utterance, not the utterer... (claims such examples are "reducible" to the first person)
 
-Lecture VI
+## Lecture VI
 
 distinction between "explicit performative" and "primary performative"; "I promise that I shall be there" versus "I shall be there."
 
@@ -65,7 +65,7 @@ the explicit performative as a later development of language than the primary?
 
 can all performatives be put into the explicit?
 
-Lecture VII
+## Lecture VII
 
 but even apparently explicit performatives often aren't purely performative
 
@@ -77,7 +77,7 @@ verdictives:  "if you are a judge and say 'I hold that..."' then to say you hol
 
 clarification of what it is to "issue an utterance"; in the linguistic sense, to say anything is always to do something
 
-Lecture VIII
+## Lecture VIII
 
 saying anything is "the performance of a locutionary act" (Austin 94)
 
@@ -93,17 +93,17 @@ illocutionary act:  "performance of an act in saying something as opposed to pe
 
 perlocutionary act:  speech acts that have consequences that are not direct effects
 
-Lecture IX
+## Lecture IX
 
 distinguishing between illocutionary and perlocutionary acts
 
 exploration of consequences and causality
 
-Lecture X
+## Lecture X
 
 generally, in illocutionary acts, one does something in saying something; in perlocutionary acts, one does something by saying something
 
-Lecture XI
+## Lecture XI
 
 are "statements" prone to the same kind of infelicities as performatives?  If so, is every speech act a performative?
 
@@ -113,7 +113,7 @@ constatives and performatives as poles on a spectrum of speech acts?
 
 or perhaps a historical development?
 
-Lecture XII
+## Lecture XII
 
 need to consider "the total speech act in the total speech situation" (Austin 147)
 

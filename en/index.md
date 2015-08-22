@@ -12,7 +12,7 @@ Yes! These notes were originally typed under varying levels of distress and slee
 
 ## The notes
 
-[Aarseth, Espen. *Cybertext*](/aarseth)
+[Aarseth, Espen. *Cybertext*](pages/aarseth.md)
 [Alonso, Carlos J et al. *Crises and Opportunities*](pages/alonso.md)
 [Althusser, Louis. “Contradiction and Overdetermination”](pages/althusser1.md)
 [Althusser, Louis. “Ideology and Ideological State Apparatuses”](pages/althusser2.md)
@@ -20,3 +20,5 @@ Yes! These notes were originally typed under varying levels of distress and slee
 [Anderson, Chris. *The Long Tail*](pages/anderson.md)
 [Armstrong, Nancy. *Desire and Domestic Fiction*](pages/armstrong1.md)
 [Armstrong, Nancy. *How Novels Think*](pages/armstrong2.md)
+[Austin, J.L. *How to Do Things with Words*](pages/austin.md)
+[Barnouw, Erik. *Tube of Plenty*](pages/barnouw.md)
