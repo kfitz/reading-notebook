@@ -1,14 +1,9 @@
 # Notebook
 
 
-## What is this?
+## The disclaimers
 
-The notes herein are those I’ve taken as I’ve done research over the last couple of decades. They’re mostly a record of the things that caught my attention as I read, and so may be of little use to anyone else, but… here they are.
-
-
-## Any other disclaimers?
-
-Yes! These notes were originally typed under varying levels of distress and sleepiness, and have been migrated from one format to another repeatedly through the years. There are likely many typos and formatting errors. I’ll hope to polish things a bit over time, but… here they are.
+The notes herein are those I’ve taken as I’ve done research over the last couple of decades. They’re mostly a record of the things that caught my attention as I read, and so may be of little use to anyone else. They were also originally typed under varying levels of distress and sleepiness, and have been migrated from one format to another repeatedly through the years. There are likely many typos and formatting errors. I’ll hope to polish things a bit over time, but… here they are.
 
 ## The notes
 
@@ -42,3 +37,6 @@ Yes! These notes were originally typed under varying levels of distress and slee
 [Borgman, Christine L. *Scholarship in the Digital Age*](pages/borgman.md)
 [Bousquet, Marc. *How the University Works*](pages/bousquet.md)
 [Brooks, Peter. *Reading for the Plot*](pages/brooks.md)
+[Brown, Bill. “Thing Theory”](pages/brownb.md)
+[Brown, Laura, et al. “University Publishing in a Digital Age”](pages/brownl.md)
+[Burdick, Anne et al. *Digital_Humanities*](pages/burdick.md)

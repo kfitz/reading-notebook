@@ -1,7 +1,7 @@
-Burdick, Anne et al. Digital_Humanities. Cambridge, MA: MIT Press, 2012.
+# Burdick, Anne et al. *Digital_Humanities*. Cambridge, MA: MIT Press, 2012.
  
 
-1. Humanities to Digital Humanities
+## 1. Humanities to Digital Humanities
 
 "the Digital Humanities has greatly expanded the potential power and reach of the humanities disciplines, both within the academy, and, just as importantly, outside its walls" (4)
 
@@ -71,7 +71,7 @@ also claims to solve the problem of the canon's finitude: "In the eight semester
 
 Yikes: DH "promotes platforms for informed amateur scholarship, and it serves to make humanities research into something of a new multi-player online game with global reach and relevance" (26). I do not at all dispute the benefits of "informed amateur scholarship," but the gamification of scholarship will not sit well. In fact, it does not sit well with me. Must everything be a game to be engaging?
 
-2. Emerging Methods and Genres
+## 2. Emerging Methods and Genres
 
 "We strongly believe that humanists need to apply the same kind of rigorous media-specific, social, cultural, and economic analyses that we have honed to study print culture to understand the specificity and affordances of digital culture and to interrogate the status of knowledge, the concept of culture, and the redefinition of the social in our global information age." (30) --- Absolutely! Except that I don't think that humanists-in-general have those skills with respect to print culture. In fact most treat print as an unquestionable given, or where they are interested in "print culture," profoundly misunderstand its causalities.
 
@@ -133,7 +133,7 @@ aggregation vs composite analysis; "data mining is a term that covers a host of 
 
 fictional case studies (structured like grant proposals)
 
-3. The Social Life of the Digital Humanities
+## 3. The Social Life of the Digital Humanities
 
 changes in the norms of academic life and knowledge production; “how open-source models, information technologies, and social media have reshaped contemporary practice, promoting social transformations that affect the reach and relevance of humanities work” (76)
 
@@ -165,7 +165,7 @@ exclusivity of notions of “public” and “counterpublic”; “Perhaps, then
 
 changing functions and responsibilities of libraries and university presses
 
-4. Provocations
+## 4. Provocations
 
 speculative statements about what the Digital Humanities will become
 

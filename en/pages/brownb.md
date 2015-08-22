@@ -1,4 +1,4 @@
-Brown, Bill. “Thing Theory.” Critical Inquiry 28.1 (2001): 1–22. doi://10.2307/1344258.
+# Brown, Bill. “Thing Theory.” *Critical Inquiry* 28.1 (2001): 1–22. doi://10.2307/1344258.
 
 
 "We begin to confront the thingness of objects when they stop working for us" (4)

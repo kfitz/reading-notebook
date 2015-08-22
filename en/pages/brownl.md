@@ -1,10 +1,10 @@
-Brown, Laura, Rebecca Griffiths, and Matthew Rascoff. "University Publishing in a Digital Age." Ithaka, 23 July 2007. <http://www.sr.ithaka.org/research-publications/university-publishing-digital-age>
+# Brown, Laura, Rebecca Griffiths, and Matthew Rascoff. "University Publishing in a Digital Age." Ithaka, 23 July 2007. <http://www.sr.ithaka.org/research-publications/university-publishing-digital-age>
 
-Preface, Kevin Guthrie
+## Preface, Kevin Guthrie
 
 "One of the proposals presented in this report suggests that it would be beneficial for the community if there were a powerful technology, service and marketing platform that would serve as a catalyst for collaboration and shared capital investment in university-based publishing." (Guthrie 1) -- see GiantChair site linking French university presses?
 
-Executive Summary
+## Executive Summary
 
 "This report began as a review of U.S. university presses and their role in scholarly publishing. It has evolved into a broader assessment of the importance of publishing to universities." (Brown et al 3)
 
@@ -22,7 +22,7 @@ Executive Summary
 
 "Press directors and librarians must work together to create the intellectual products of the future which increasingly will be created and distributed in electronic media. Their efforts should be closely and intelligently connected to their campuses' academic programs and priorities in order to ensure their relevancy and institutional commitment. All three parties should work together to create a shared electronic publishing infrastructure that will save costs, build scale, leverage expertise, promote innovation, and integrate the productive resources of universities to maintain a robust, diverse and collaborative university publishing environment." (Brown et al 5)
 
-I. Introduction
+## I. Introduction
 
 "The university-based publishing enterprise of the future must look very different from that of the past. This adaptation will require new kinds of leadership from universities and their central administrators. Administrators need to recognize the role of universities in publishing and develop strategies for the successful investment of resources, both financial and human. In some cases, that may mean making major structural and strategic changes to an existing press. In other cases it may mean forming new collaborations between different entities on campus or even across institutions, or disaggregating and recombining publishing related activities across multiple campus entities. It will no doubt require new infusions of capital, but this investment can create economies of scale that could help, in the end, to lower the costs and extend the reach of scholarly publishing." (Brown et al 6)
 
@@ -46,7 +46,7 @@ The second stage of the transformation -- the creation of new product types enab
 
 "The financial stability of presses is increasingly uncertain, as demand for their traditional products declines and administrators‚Äô appetites for subsidizing them diminish. (A concurrent trend is that getting a monograph published has become ever more challenging for young scholars and those in less mainstream fields.) The open access movement is raising questions about the traditional financial model of publishing, with some arguing that the proper price for university scholarship is zero. While many presses have been remarkably nimble in making do on a diet of modest subsidies, shoe-string budgets, and programs that painstakingly try to balance cost-recovery goals and scholarly value, those days may be numbered. Ten years from now, how many university presses will be able to compete for authors, or meet the expectations of consumers of scholarly information online, if they only continue doing what they are doing today? Very few, we expect." (Brown et al 10)
 
-II.  What the World Looks Like Today and Where It Is Headed
+## II.  What the World Looks Like Today and Where It Is Headed
 
 "Traditional economic models of publishing are being disrupted by the Web, and new ones are emerging. Universities must revisit traditional views about how publishing is supported. Creating and disseminating dynamic content imposes some new costs on the system (software tools, storage, bandwidth) and reduces others (printing, physical storage, distribution)." (Brown et al 14)
 
@@ -82,10 +82,10 @@ strengths of uni presses: credentialing; editorial review and refinement; market
 
 press-library collaborations: "These collaborations face many difficulties, especially without high level support, and we came across a number that were less successful. These challenges stem from their disconnected leadership structures and the different cultures reflecting the ways each face their respective markets. One librarian stated, 'We [presses and libraries] need to articulate a vision of a new system of scholarly communication, and then we need to do some experiments together that illustrate what is possible. In order to do this, we need to get the administration to pay attention. But most provosts do not have a scholarly communication agenda, and if the university‚Äôs attitude toward presses doesn‚Äôt change, this collaborative vision among presses, and between presses and libraries, will never work.'" (Brown et al 26-27)
 
-III. What Is Needed?
+## III. What Is Needed?
 
 recommendations: universities need to "take a more active role in publishing", "develop effective strategies for scholarly communications", "create organizational structures necessary to implement these strategies", "create models that scale/collaboration across universities", "develop online publishing strategy", "invest capital strategically", "provide leadership"
 
-Appendix B: Comparison of Press and Library Strengths and Weaknesses
+## Appendix B: Comparison of Press and Library Strengths and Weaknesses
 
 "Libraries, at the nexus of faculty research needs, understand scholars as users of information (robust subject collections ‚Äì as much as possible ‚Äì to support research agendas, 24/7 accessibility, preservation, etc.). Presses understand faculty as authors (conferring prestige through selection, improving work through peer review/editing, protecting copyright, maximizing attention, generating royalties)." (Brown et al 36)
