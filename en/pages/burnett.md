@@ -1,6 +1,6 @@
-Burnett, Ron. How Images Think. Cambridge, Mass: MIT Press, 2004.
+# Burnett, Ron. *How Images Think*. Cambridge, Mass: MIT Press, 2004.
 
-Introduction
+## Introduction
 
 "Images are no longer just representations or interpreters of human actions.  They have become central to every activity that connects humans to each other and to technology -- mediators, progenitors, interfaces -- as much reference points for imformation and knowledge as visualization of human creativity.  However, the relationship between human beings and the cultural artifacts they use and create is by no means direct or transparent" (Burnett xiv)
 
@@ -24,7 +24,7 @@ Introduction
 
 "The ubiquity of computers means that they are increasingly being anthropomorphized, which for me is one of the best examples of the symbiotic relationships that humans have with their technological creations.  My impulse throughout _How Images Think_ is to examine the many different cultural manifestations of these integrative phenomena.  As wary as I am of utopian claims about new media and new technologies, this book explores the cultural and technological transformations that are redefinign the relationships humans have developed with information, images, communications, and knowledge" (Burnett xx-xxi)
 
-Chapter Six:  Humans --- Machines  (117-42)
+## Chapter Six:  Humans --- Machines  (117-42)
 
 "De Rosnay does not simply collapse technology and the human body.  This is not his purpose.  Rather, and more important, he understands the connections that bind people and technology together.  The links that have been created -- the webs that join people, their environment, governments, cultures, economies, and, most important, technologies -- remain at the heart of a new understanding of what it means to be human" (Burnett 118)
 
