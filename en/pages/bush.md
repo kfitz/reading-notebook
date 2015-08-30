@@ -1,4 +1,4 @@
-Bush, Vannevar. "As We May Think." Atlantic Monthly 176.1 (July 1945). http://www.theatlantic.com/doc/194507/bush. 
+# Bush, Vannevar. "As We May Think." *Atlantic Monthly* 176.1 (July 1945). http://www.theatlantic.com/doc/194507/bush. 
 
 
 "The difficulty seems to be, not so much that we publish unduly in view of the extent and variety of present day interests, but rather that publication has been extended far beyond our present ability to make real use of the record" (Bush)

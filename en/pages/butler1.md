@@ -1,7 +1,7 @@
-Butler, Judith P. The Psychic Life of Power: Theories in Subjection. Stanford, Calif: Stanford University Press, 1997.
+# Butler, Judith P. *The Psychic Life of Power: Theories in Subjection*. Stanford, Calif: Stanford University Press, 1997.
 
 
-Introduction
+## Introduction
 
 "As a form of power, subjection is paradoxical.  To be dominated by a power external to oneself is a familiar and agonizing form power takes.  To find, however, that what 'one' is, one's very formation as a subject, is in some sense dependent upon that very power is quite another." (Butler 1-2)
 
@@ -19,7 +19,7 @@ Introduction
 
 on Althusser's scene of interpellation:  "Significantly, Althusser does not offer a clue as to why that individual turns around, accepting the voice as being addressed to him or her, and accepting the subordination and normalization effected by that voice.... Is this a guilty subject and, if so, how did it become guilty?  Might the theory of interpellation require a theory of conscience?" (Butler 5)
 
--- Passionate Attachments
+### Passionate Attachments
 
 "I would maintain that the attachment to subjection is produced through the workings of power, and that part of the operation of power is made clear in this psychic effect, one of the most insidious of its productions." (Butler 6)
 
@@ -35,7 +35,7 @@ on Althusser's scene of interpellation:  "Significantly, Althusser does not off
 
 "What does it mean to embrace the very form of power -- regulation, prohibition, suppression -- that threatens one with dissolution in an effort, precisely, to persist in one's own existence?  It is not simply that one requires the recognition of the other and that a form of recognition is conferred through subordination, but rather that one is dependent on power for one's very formation, that that formation is impossible without dependency, and that the posture of the adult subject consists precisely in the denial and reenactment of this dependency." (Butler 9)
 
--- Ambivalence
+### Ambivalence
 
 "I propose to take account of how a paradox recurrently structures the debate, leading it almost always to culminate in displays of ambivalence.  How can it be that the subject, taken to be the condition for and instrument of agency, is at the same time the effect of subordination, understood as the deprivation of agency?" (Butler 10)
 
@@ -45,7 +45,7 @@ on Althusser's scene of interpellation:  "Significantly, Althusser does not off
 
 "A power *exerted on* a subject, subjection is nevertheless a power *assumed by* the subject, an assumption that constitutes the instrument of that subject's becoming." (Butler 11)
 
--- Subjection/Subordination
+### Subjection/Subordination
 
 "What does it mean for the agency of a subject to *presuppose* its own subordination?  Is the act of *presupposing* the same as the act of *reinstating*, or is there a discontinuity between the power presupposed and the power reinstated?" (Butler 12)
 
@@ -75,7 +75,7 @@ on Althusser's scene of interpellation:  "Significantly, Althusser does not off
 
 "Power rearticulated is 're'-articulated in the sense of already done and 're'-articulated in the sense of done again, done anew." (Butler 18)
 
--- Regulations of the Psyche
+### Regulations of the Psyche
 
 "an account of subjection, it seems, must be traced in the turns of psychic life.  More specifically, it must be traced in the peculiar turning of a subject against itself that takes place in acts of self-reproach, conscience, and melancholia that work in tandem with processes of social regulation." (Butler 18-19)
 
@@ -116,7 +116,7 @@ on Althusser's scene of interpellation:  "Significantly, Althusser does not off
 "Is there a way to affirm complicity as the basis of political agency, yet insist that political agency may do more than reiterate the conditions of subordination?" (Butler 29-30)
 
 
-1.  Stubborn Attachment, Bodily Subjection:  Rereading Hegel on the Unhappy Consciousness
+## 1.  Stubborn Attachment, Bodily Subjection:  Rereading Hegel on the Unhappy Consciousness
 
 "Foucault has suggested that the point of modern politics is no longer to liberate a subject, but rather to interrogate the regulatory mechanisms through which 'subjects' are produced and maintained." (Butler 31-32)
 
@@ -126,7 +126,7 @@ on Althusser's scene of interpellation:  "Significantly, Althusser does not off
 
 "Hegel shows that if the suppression of the body requires an instrumental movement of and by the body, then the body is inadvertently *preserved* in and by the instrument of its suppression." (Butler 33)
 
--- Hegel and the Production of Self-Enslavement
+### Hegel and the Production of Self-Enslavement
 
 "The bondsman appears as an instrumental body whose labor provides for the material conditions of the lord's existence, and whose material products reflect both the subordination of the bondsman and the domination of the master.  In a sense, the lord postures as a disembodied desire for self-reflection, one who not only requires the subordination of the bondsman in the status of an instrumental body, but who requires in effect that the bondsman *be* the lord's body, but be it in such a way that the lord forgets or disavows his own activity in producing the bondman, a production which we will call a projection." (Butler 35)
 
@@ -168,7 +168,7 @@ Hegel's closing transitions to The Unhappy Consciousness:  "The mediator or the
 
 "Every effort to reduce itself to inaction or to nothing, to subordinate or mortify its own body, culminates inadvertently in the *production* of self-consciousness as a pleasure-seeking and self-aggrandizing agent.  Every effort to overcome the body, pleasure, and agency proves to be nothing other than the assertion of precisely those features of the subject." (Butler 53)
 
--- Post-Hegelian Subjections
+### Post-Hegelian Subjections
 
 "The ethical refusal and subordination of the body might then be understood as a magical effort to preempt that existential negation." (Butler 54)
 
@@ -189,7 +189,7 @@ Hegel's closing transitions to The Unhappy Consciousness:  "The mediator or the
 "the desire to desire is a willingness to desire precisely that which would foreclose desire, if only for the possibility of continuing to desire." (Butler 61)
 
 
-2.  Circuits of Bad Conscience: Nietzsche and Freud
+## 2.  Circuits of Bad Conscience: Nietzsche and Freud
 
 "In Nietzsche, who distinguishes conscience from bad conscience, the will is said to turn back on itself.  But what are we to make of this strange locution; how are we being asked to imagine a will such that it recoils and redoubles upon itself; and how, most pertinently, is this figure being offered as a way to articulate the kind of reflexivity central to the operation of bad conscience?" (Butler 63)
 
@@ -209,7 +209,7 @@ Hegel's closing transitions to The Unhappy Consciousness:  "The mediator or the
 
 "the strength of conscience correlates neither with the strength of a punishment received nor with the strength of a memory of a punishment received, *but with the strength of one's own aggression*, one which is said to have vented itself externally, but which now, under the rubric of bad conscience, is said to vent itself internally." (Butler 70)
 
--- Nietzsche's Account of Bad Conscience
+### Nietzsche's Account of Bad Conscience
 
 "the desire to punish cannot be fully accounted for by the circumstances of the broken contract.  Why does the creditor take pleasure in the inflection of injury, and what form does that pleasure take when injury is inflicted in the moralized action by which the creditor holds the debtor morally accountable and pronounces him guilty?  What strange consummation of pleasure takes place in that attribution of guilt?" (Butler 73)
 
@@ -223,7 +223,7 @@ Hegel's closing transitions to The Unhappy Consciousness:  "The mediator or the
 
 "If all 'imaginative phenomena' are the result of this violent interiorization, it follows that the genealogical account will be one of these phenomena, a narrative effect of the narrative it seeks to tell.  The unmasking of the narrative is its remasking -- inevitably.  Indeed, it seems that the very creativity one seeks to oppose to the inhibition of strength is fundamentally dependent on that very inhibition.  In this sense, repression appears to underwrite or guarantee both the being who promises and the writer of fiction, including conceptual fictions such as genealogy." (Butler 77-78)
 
--- Freud, Narcissism, and Regulation
+### Freud, Narcissism, and Regulation
 
 "How can cultivating a narcissistic attachment to punishment be the means by which the power of social regulation exploits a narcissistic demand for self-reflection which is indifferent to its occasion?" (Butler 78)
 
@@ -234,7 +234,7 @@ Hegel's closing transitions to The Unhappy Consciousness:  "The mediator or the
 "renunciation takes place through the very desire that is renounced: the desire is *never* renounced, but becomes preserved and reasserted in the very structure of renunciation." (Butler 81)
 
 
-3.  Subjection, Resistance, Resignification:  Between Freud and Foucault
+## 3.  Subjection, Resistance, Resignification:  Between Freud and Foucault
 
 "The term 'subjectivation' carries the paradox in itself: *assujetissement* denotes both the becoming of the subject and the process of subjection -- one inhabits the figure of autonomy only be becoming subjected to a power, a subjection which implies a radical dependency." (Butler 83)
 
@@ -299,7 +299,7 @@ on the two senses in which "queer" can be used: "not an opposition between react
 "If Foucault could argue that a sign could be taken up, used for purposes counter to those for which it was designed, then he understood that even the most noxious terms could be owned, that the most injurious interpellations could also be the site of radical reoccupation and resignification.  But what lets us occupy the discursive site of injury?  How are we animated and mobilized by that discursive site and its injury, such that our very attachment to it becomes the condition for our resignification of it?" (Butler 104)
 
 
-4.  "Conscience Doth Make Subjects of Us All": Althusser's Subjection
+## 4.  "Conscience Doth Make Subjects of Us All": Althusser's Subjection
 
 "Althusser's doctrine of interpellation continues to structure contemporary debate on subject formation, offering a way to account for a subject who comes into being as a consequence of language, yet always within its terms." (Butler 106)
 
@@ -354,7 +354,7 @@ on the two senses in which "queer" can be used: "not an opposition between react
 "Is there a possibility of being elsewhere or otherwise, without denying our complicity in the law that we oppose?  Such possibility would require a different kind of turn, one that, enabled by the law, turns away from the law, resisting its lure of identity, an agency that outruns and counters the conditions of its emergence.  Such a turn demands a willingness *not* to be -- a critical desubjectivation -- in order to expose the law as less powerful than it seems." (Butler 130)
 
 
-5.  Melancholy Gender/Refused Identification
+## 5.  Melancholy Gender/Refused Identification
 
 "It may at first seem strange to think of gender as a kind of melancholy, or as one of melancholy's effects.  But let us remember that in _The Ego and the Id_, Freud himself acknowledged that melancholy, the unfinished process of grieving, is central to the formation of the identifications that form the ego....  Consider in conjunction with this insight Freud's further remark that 'the ego is first and foremost a bodily ego,' not merely a surface, but 'the projection of a surface.' Further, this bodily ego assumes a gendered morphology, so that the bodily ego is also a gendered ego." (Butler 132)
 
@@ -404,7 +404,7 @@ on the two senses in which "queer" can be used: "not an opposition between react
 
 "Perhaps only by risking the *incoherence* of identity is connection possible, a political point that correlates with Leo Bersani's insight that only the decentered subject is available to desire." (Butler 149)
 
--- "Keeping It Moving: Commentary on Judith Butler's 'Melancholy Gender/Refused Identification'" -- Adam Phillips (151-59)
+### "Keeping It Moving: Commentary on Judith Butler's 'Melancholy Gender/Refused Identification'" -- Adam Phillips (151-59)
 
 "As Judith Butler's sobering essay shows, this critical concept of identificataion is the nexus for a number of contentious issues in contemporary theory; it invites us to wonder what we use other people for and how other they are... in what sense do we have what we prefer to call relationships with each other?" (Phillips 152)
 
@@ -420,7 +420,7 @@ on the two senses in which "queer" can be used: "not an opposition between react
 
 "There is a kind of intellectual melancholy in the loss of a third sex that never existed and so can never by mourned; this third, irrational sex that would break the spell (or the logic) of the two, and that is one of the child's formative and repressed fantasies about himself or herself." (Phillips 158)
 
--- Reply to Adam Phillips's commentary on "Melancholy Gender/Refused Identification"
+### Reply to Adam Phillips's commentary on "Melancholy Gender/Refused Identification"
 
 "My reply will focus first on the question of whether melancholy is rightly understood to oppose or to temper notions of gender performativity, and second, on whether sexual difference is an opposition that is as stable as it might appear." (Butler 160-61)
 
@@ -435,7 +435,7 @@ on the two senses in which "queer" can be used: "not an opposition between react
 "Does it follow that if one desires a woman, one is desiring from a masculine disposition, or is that disposition retroactively attributed to the desiring position as a ways of retaining heterosexuality as the way of understanding the separateness or alterity that conditions desire?" (Butler 165)
 
 
-6.  Psychic Inceptions:  Melancholy, Ambivalence, Rage
+## 6.  Psychic Inceptions:  Melancholy, Ambivalence, Rage
 
 "The social world appears to be eclipsed in melancholy, and an internal world structured in ambivalence emerges as a consequence." (Butler 167)
 

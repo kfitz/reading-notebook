@@ -41,3 +41,5 @@ The notes herein are those I’ve taken as I’ve done research over the last co
 [Brown, Laura, et al. “University Publishing in a Digital Age”](pages/brownl.md)
 [Burdick, Anne et al. *Digital_Humanities*](pages/burdick.md)
 [Burnett, Ron. *How Images Think*](pages/burnett.md)
+[Bush, Vannevar. “As We May Think”](pages/bush.md)
+[Butler, Judith P. *The Psychic Life of Power*](pages/butler.md)
