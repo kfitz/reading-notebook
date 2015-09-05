@@ -1,6 +1,6 @@
-Butler, Judith.  Excitable Speech:  A Politics of the Performative.  New York:  Routledge, 1997.
+# Butler, Judith.  *Excitable Speech:  A Politics of the Performative*.  New York:  Routledge, 1997.
 
-Introduction:  On Linguistic Vulnerability.
+## Introduction:  On Linguistic Vulnerability.
 
 what does it mean to say one has been injured by language? -- demonstrates that we are linguistic beings
 
@@ -86,7 +86,7 @@ Foucault:  power does not take the form of a name, but "power is the name that 
 
 "Misappropriating the force of injurious language to counter its injurious operations constitutes a strategy that resists the solution of state-sponsored censorship, on the one hand, and the return to an impossible notion of the sovereign freedom of the individual, on the other." (41)
 
-1.  Burning Acts, Injurious Speech
+## 1.  Burning Acts, Injurious Speech
 
 question of performativity is "bound up with a question of transitivity.  What does it mean for a word not only to name, but also in some sense to perform and, in particular, to perform what it names?" (43)
 
@@ -104,7 +104,7 @@ Supreme Court decisions on hate speech cases
 
 bleed between treatments of hate speech and treatments of pornography
 
-2.  Sovereign Performatives
+## 2.  Sovereign Performatives
 
 "I propose to review some of the senses in which 'verbal conduct' is thought in the proposed hate speech regulation, and to offer an alternative view of how one might at once affirm that language does act, even injuriously, while insisting that it does not directly or causatively 'act on' the addressee in quite the way that proponents of hate speech legislation tend to describe.  Indeed, the act-like character of certain offensive utterances may be precisely what keeps them from saying what they mean to say or doing what it is they say." (72)
 
@@ -138,9 +138,9 @@ liberal assumptions that "political participation requires the ability not only 
 
 aesthetic uses of injurious words may both use and mention those words, both citing their histories and disrupting those histories; "I do not mean to subscribe to a simple opposition between the aesthetic and juridical domains, for what is at stake in many of these controversies is precisely the power of the state to define what will count as aesthetic representation." (101)
 
-3.  Contagious Word:  Paranoia and "Homosexuality" in the Military
+## 3.  Contagious Word:  Paranoia and "Homosexuality" in the Military
 
-themilitary as "a zone of partial citizenship, a domain in which selected features of citizenship are preserved, and others are suspended." (103)
+the military as "a zone of partial citizenship, a domain in which selected features of citizenship are preserved, and others are suspended." (103)
 
 discourse on homosexuality has increased rather than decreased as a result of the circumscription of the word
 
@@ -164,7 +164,7 @@ performativity of such figuring of the performative nature of homosexuality
 
 "one of the tasks of a critical production of alternative homosexualities will be to disjoin homosexuality from the figures by which it is conveyed in dominant discourse, especially when they take the form of either assault or disease." (125)
 
-4.  Implicit Censorship and Discursive Agency
+## 4.  Implicit Censorship and Discursive Agency
 
 "To claim that certain speech is not speech and, therefore, not subject to censorship is already to have exercised the censor." (128)
 
