@@ -45,3 +45,4 @@ The notes herein are those I’ve taken as I’ve done research over the last co
 [Butler, Judith P. *The Psychic Life of Power*](pages/butler1.md)
 [Butler, Judith. *Bodies That Matter*](pages/butler2.md)
 [Butler, Judith. *Excitable Speech*](pages/butler3.md)
+[Butler, Judith. *Gender Trouble*](pages/butler4.md)
